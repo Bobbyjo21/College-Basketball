@@ -1,20 +1,962 @@
 {
   "season": 2027,
-  "updatedAt": "2026-09-01T19:58:39.766Z",
+  "updatedAt": "2026-09-01T20:20:11.211Z",
   "sources": {
     "espn": true
   },
-  "warnings": [
-    "Run the daily workflow to load every Division I team."
-  ],
+  "warnings": [],
   "teams": {
-    "Nebraska Cornhuskers": {
-      "id": 1,
-      "name": "Nebraska Cornhuskers",
+    "Abilene Christian Wildcats": {
+      "id": "2000",
+      "name": "Abilene Christian Wildcats",
       "aliases": [
-        "NEB"
+        "ACU"
       ],
-      "conference": "Big Ten",
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Air Force Falcons": {
+      "id": "2005",
+      "name": "Air Force Falcons",
+      "aliases": [
+        "AF"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Akron Zips": {
+      "id": "2006",
+      "name": "Akron Zips",
+      "aliases": [
+        "AKR"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Alabama A&M Bulldogs": {
+      "id": "2010",
+      "name": "Alabama A&M Bulldogs",
+      "aliases": [
+        "AAMU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Alabama Crimson Tide": {
+      "id": "333",
+      "name": "Alabama Crimson Tide",
+      "aliases": [
+        "ALA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Alabama State Hornets": {
+      "id": "2011",
+      "name": "Alabama State Hornets",
+      "aliases": [
+        "ALST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Alcorn State Braves": {
+      "id": "2016",
+      "name": "Alcorn State Braves",
+      "aliases": [
+        "ALCN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "American University Eagles": {
+      "id": "44",
+      "name": "American University Eagles",
+      "aliases": [
+        "AMER"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "App State Mountaineers": {
+      "id": "2026",
+      "name": "App State Mountaineers",
+      "aliases": [
+        "APP"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Arizona State Sun Devils": {
+      "id": "9",
+      "name": "Arizona State Sun Devils",
+      "aliases": [
+        "ASU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Arizona Wildcats": {
+      "id": "12",
+      "name": "Arizona Wildcats",
+      "aliases": [
+        "ARIZ"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Arkansas Razorbacks": {
+      "id": "8",
+      "name": "Arkansas Razorbacks",
+      "aliases": [
+        "ARK"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Arkansas State Red Wolves": {
+      "id": "2032",
+      "name": "Arkansas State Red Wolves",
+      "aliases": [
+        "ARST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Arkansas-Pine Bluff Golden Lions": {
+      "id": "2029",
+      "name": "Arkansas-Pine Bluff Golden Lions",
+      "aliases": [
+        "UAPB"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Army Black Knights": {
+      "id": "349",
+      "name": "Army Black Knights",
+      "aliases": [
+        "ARMY"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Auburn Tigers": {
+      "id": "2",
+      "name": "Auburn Tigers",
+      "aliases": [
+        "AUB"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Austin Peay Governors": {
+      "id": "2046",
+      "name": "Austin Peay Governors",
+      "aliases": [
+        "APSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "BYU Cougars": {
+      "id": "252",
+      "name": "BYU Cougars",
+      "aliases": [
+        "BYU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Ball State Cardinals": {
+      "id": "2050",
+      "name": "Ball State Cardinals",
+      "aliases": [
+        "BALL"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Baylor Bears": {
+      "id": "239",
+      "name": "Baylor Bears",
+      "aliases": [
+        "BAY"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Bellarmine Knights": {
+      "id": "91",
+      "name": "Bellarmine Knights",
+      "aliases": [
+        "BELL"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Belmont Bruins": {
+      "id": "2057",
+      "name": "Belmont Bruins",
+      "aliases": [
+        "BEL"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Bethune-Cookman Wildcats": {
+      "id": "2065",
+      "name": "Bethune-Cookman Wildcats",
+      "aliases": [
+        "BCU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Binghamton Bearcats": {
+      "id": "2066",
+      "name": "Binghamton Bearcats",
+      "aliases": [
+        "BING"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Boise State Broncos": {
+      "id": "68",
+      "name": "Boise State Broncos",
+      "aliases": [
+        "BOIS"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Boston College Eagles": {
+      "id": "103",
+      "name": "Boston College Eagles",
+      "aliases": [
+        "BC"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Boston University Terriers": {
+      "id": "104",
+      "name": "Boston University Terriers",
+      "aliases": [
+        "BU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Bowling Green Falcons": {
+      "id": "189",
+      "name": "Bowling Green Falcons",
+      "aliases": [
+        "BGSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Bradley Braves": {
+      "id": "71",
+      "name": "Bradley Braves",
+      "aliases": [
+        "BRAD"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Brown Bears": {
+      "id": "225",
+      "name": "Brown Bears",
+      "aliases": [
+        "BRWN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Bryant Bulldogs": {
+      "id": "2803",
+      "name": "Bryant Bulldogs",
+      "aliases": [
+        "BRY"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Bucknell Bison": {
+      "id": "2083",
+      "name": "Bucknell Bison",
+      "aliases": [
+        "BUCK"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Buffalo Bulls": {
+      "id": "2084",
+      "name": "Buffalo Bulls",
+      "aliases": [
+        "BUF"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Butler Bulldogs": {
+      "id": "2086",
+      "name": "Butler Bulldogs",
+      "aliases": [
+        "BTLR"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Cal Poly Mustangs": {
+      "id": "13",
+      "name": "Cal Poly Mustangs",
+      "aliases": [
+        "CP"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Cal State Bakersfield Roadrunners": {
+      "id": "2934",
+      "name": "Cal State Bakersfield Roadrunners",
+      "aliases": [
+        "CSUB"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Cal State Fullerton Titans": {
+      "id": "2239",
+      "name": "Cal State Fullerton Titans",
+      "aliases": [
+        "CSUF"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Cal State Northridge Matadors": {
+      "id": "2463",
+      "name": "Cal State Northridge Matadors",
+      "aliases": [
+        "CSUN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "California Baptist Lancers": {
+      "id": "2856",
+      "name": "California Baptist Lancers",
+      "aliases": [
+        "CBU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "California Golden Bears": {
+      "id": "25",
+      "name": "California Golden Bears",
+      "aliases": [
+        "CAL"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Campbell Fighting Camels": {
+      "id": "2097",
+      "name": "Campbell Fighting Camels",
+      "aliases": [
+        "CAM"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Canisius Golden Griffins": {
+      "id": "2099",
+      "name": "Canisius Golden Griffins",
+      "aliases": [
+        "CAN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Central Arkansas Bears": {
+      "id": "2110",
+      "name": "Central Arkansas Bears",
+      "aliases": [
+        "CARK"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Central Connecticut Blue Devils": {
+      "id": "2115",
+      "name": "Central Connecticut Blue Devils",
+      "aliases": [
+        "CCSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Central Michigan Chippewas": {
+      "id": "2117",
+      "name": "Central Michigan Chippewas",
+      "aliases": [
+        "CMU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Charleston Cougars": {
+      "id": "232",
+      "name": "Charleston Cougars",
+      "aliases": [
+        "COFC"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Charleston Southern Buccaneers": {
+      "id": "2127",
+      "name": "Charleston Southern Buccaneers",
+      "aliases": [
+        "CHSO"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Charlotte 49ers": {
+      "id": "2429",
+      "name": "Charlotte 49ers",
+      "aliases": [
+        "CLT"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Chattanooga Mocs": {
+      "id": "236",
+      "name": "Chattanooga Mocs",
+      "aliases": [
+        "UTC"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Chicago State Cougars": {
+      "id": "2130",
+      "name": "Chicago State Cougars",
+      "aliases": [
+        "CHST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Cincinnati Bearcats": {
+      "id": "2132",
+      "name": "Cincinnati Bearcats",
+      "aliases": [
+        "CIN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Clemson Tigers": {
+      "id": "228",
+      "name": "Clemson Tigers",
+      "aliases": [
+        "CLEM"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Cleveland State Vikings": {
+      "id": "325",
+      "name": "Cleveland State Vikings",
+      "aliases": [
+        "CLE"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Coastal Carolina Chanticleers": {
+      "id": "324",
+      "name": "Coastal Carolina Chanticleers",
+      "aliases": [
+        "CCU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Colgate Raiders": {
+      "id": "2142",
+      "name": "Colgate Raiders",
+      "aliases": [
+        "COLG"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Colorado Buffaloes": {
+      "id": "38",
+      "name": "Colorado Buffaloes",
+      "aliases": [
+        "COLO"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Colorado State Rams": {
+      "id": "36",
+      "name": "Colorado State Rams",
+      "aliases": [
+        "CSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Columbia Lions": {
+      "id": "171",
+      "name": "Columbia Lions",
+      "aliases": [
+        "COLU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Coppin State Eagles": {
+      "id": "2154",
+      "name": "Coppin State Eagles",
+      "aliases": [
+        "COPP"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Cornell Big Red": {
+      "id": "172",
+      "name": "Cornell Big Red",
+      "aliases": [
+        "COR"
+      ],
+      "conference": "Division I",
       "gamesPlayed": 0,
       "dataWeight": 0,
       "power": 0,
@@ -25,12 +967,1116 @@
       }
     },
     "Creighton Bluejays": {
-      "id": 2,
+      "id": "156",
       "name": "Creighton Bluejays",
       "aliases": [
         "CREI"
       ],
-      "conference": "Big East",
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Dartmouth Big Green": {
+      "id": "159",
+      "name": "Dartmouth Big Green",
+      "aliases": [
+        "DART"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Davidson Wildcats": {
+      "id": "2166",
+      "name": "Davidson Wildcats",
+      "aliases": [
+        "DAV"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Dayton Flyers": {
+      "id": "2168",
+      "name": "Dayton Flyers",
+      "aliases": [
+        "DAY"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "DePaul Blue Demons": {
+      "id": "305",
+      "name": "DePaul Blue Demons",
+      "aliases": [
+        "DEP"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Delaware Blue Hens": {
+      "id": "48",
+      "name": "Delaware Blue Hens",
+      "aliases": [
+        "DEL"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Delaware State Hornets": {
+      "id": "2169",
+      "name": "Delaware State Hornets",
+      "aliases": [
+        "DSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Denver Pioneers": {
+      "id": "2172",
+      "name": "Denver Pioneers",
+      "aliases": [
+        "DEN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Detroit Mercy Titans": {
+      "id": "2174",
+      "name": "Detroit Mercy Titans",
+      "aliases": [
+        "DETM"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Drake Bulldogs": {
+      "id": "2181",
+      "name": "Drake Bulldogs",
+      "aliases": [
+        "DRKE"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Drexel Dragons": {
+      "id": "2182",
+      "name": "Drexel Dragons",
+      "aliases": [
+        "DREX"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Duke Blue Devils": {
+      "id": "150",
+      "name": "Duke Blue Devils",
+      "aliases": [
+        "DUKE"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Duquesne Dukes": {
+      "id": "2184",
+      "name": "Duquesne Dukes",
+      "aliases": [
+        "DUQ"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "East Carolina Pirates": {
+      "id": "151",
+      "name": "East Carolina Pirates",
+      "aliases": [
+        "ECU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "East Tennessee State Buccaneers": {
+      "id": "2193",
+      "name": "East Tennessee State Buccaneers",
+      "aliases": [
+        "ETSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "East Texas A&M Lions": {
+      "id": "2837",
+      "name": "East Texas A&M Lions",
+      "aliases": [
+        "ETAM"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Eastern Illinois Panthers": {
+      "id": "2197",
+      "name": "Eastern Illinois Panthers",
+      "aliases": [
+        "EIU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Eastern Kentucky Colonels": {
+      "id": "2198",
+      "name": "Eastern Kentucky Colonels",
+      "aliases": [
+        "EKU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Eastern Michigan Eagles": {
+      "id": "2199",
+      "name": "Eastern Michigan Eagles",
+      "aliases": [
+        "EMU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Eastern Washington Eagles": {
+      "id": "331",
+      "name": "Eastern Washington Eagles",
+      "aliases": [
+        "EWU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Elon Phoenix": {
+      "id": "2210",
+      "name": "Elon Phoenix",
+      "aliases": [
+        "ELON"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Evansville Purple Aces": {
+      "id": "339",
+      "name": "Evansville Purple Aces",
+      "aliases": [
+        "EVAN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Fairfield Stags": {
+      "id": "2217",
+      "name": "Fairfield Stags",
+      "aliases": [
+        "FAIR"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Fairleigh Dickinson Knights": {
+      "id": "161",
+      "name": "Fairleigh Dickinson Knights",
+      "aliases": [
+        "FDU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Florida A&M Rattlers": {
+      "id": "50",
+      "name": "Florida A&M Rattlers",
+      "aliases": [
+        "FAMU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Florida Atlantic Owls": {
+      "id": "2226",
+      "name": "Florida Atlantic Owls",
+      "aliases": [
+        "FAU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Florida Gators": {
+      "id": "57",
+      "name": "Florida Gators",
+      "aliases": [
+        "FLA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Florida Gulf Coast Eagles": {
+      "id": "526",
+      "name": "Florida Gulf Coast Eagles",
+      "aliases": [
+        "FGCU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Florida International Panthers": {
+      "id": "2229",
+      "name": "Florida International Panthers",
+      "aliases": [
+        "FIU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Florida State Seminoles": {
+      "id": "52",
+      "name": "Florida State Seminoles",
+      "aliases": [
+        "FSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Fordham Rams": {
+      "id": "2230",
+      "name": "Fordham Rams",
+      "aliases": [
+        "FOR"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Fresno State Bulldogs": {
+      "id": "278",
+      "name": "Fresno State Bulldogs",
+      "aliases": [
+        "FRES"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Furman Paladins": {
+      "id": "231",
+      "name": "Furman Paladins",
+      "aliases": [
+        "FUR"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Gardner-Webb Runnin' Bulldogs": {
+      "id": "2241",
+      "name": "Gardner-Webb Runnin' Bulldogs",
+      "aliases": [
+        "GWEB"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "George Mason Patriots": {
+      "id": "2244",
+      "name": "George Mason Patriots",
+      "aliases": [
+        "GMU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "George Washington Revolutionaries": {
+      "id": "45",
+      "name": "George Washington Revolutionaries",
+      "aliases": [
+        "GW"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Georgetown Hoyas": {
+      "id": "46",
+      "name": "Georgetown Hoyas",
+      "aliases": [
+        "GTWN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Georgia Bulldogs": {
+      "id": "61",
+      "name": "Georgia Bulldogs",
+      "aliases": [
+        "UGA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Georgia Southern Eagles": {
+      "id": "290",
+      "name": "Georgia Southern Eagles",
+      "aliases": [
+        "GASO"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Georgia State Panthers": {
+      "id": "2247",
+      "name": "Georgia State Panthers",
+      "aliases": [
+        "GAST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Georgia Tech Yellow Jackets": {
+      "id": "59",
+      "name": "Georgia Tech Yellow Jackets",
+      "aliases": [
+        "GT"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Gonzaga Bulldogs": {
+      "id": "2250",
+      "name": "Gonzaga Bulldogs",
+      "aliases": [
+        "GONZ"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Grambling Tigers": {
+      "id": "2755",
+      "name": "Grambling Tigers",
+      "aliases": [
+        "GRAM"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Grand Canyon Lopes": {
+      "id": "2253",
+      "name": "Grand Canyon Lopes",
+      "aliases": [
+        "GCU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Green Bay Phoenix": {
+      "id": "2739",
+      "name": "Green Bay Phoenix",
+      "aliases": [
+        "GB"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Hampton Pirates": {
+      "id": "2261",
+      "name": "Hampton Pirates",
+      "aliases": [
+        "HAMP"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Harvard Crimson": {
+      "id": "108",
+      "name": "Harvard Crimson",
+      "aliases": [
+        "HARV"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Hawai'i Rainbow Warriors": {
+      "id": "62",
+      "name": "Hawai'i Rainbow Warriors",
+      "aliases": [
+        "HAW"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "High Point Panthers": {
+      "id": "2272",
+      "name": "High Point Panthers",
+      "aliases": [
+        "HPU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Hofstra Pride": {
+      "id": "2275",
+      "name": "Hofstra Pride",
+      "aliases": [
+        "HOF"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Holy Cross Crusaders": {
+      "id": "107",
+      "name": "Holy Cross Crusaders",
+      "aliases": [
+        "HC"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Houston Christian Huskies": {
+      "id": "2277",
+      "name": "Houston Christian Huskies",
+      "aliases": [
+        "HCU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Houston Cougars": {
+      "id": "248",
+      "name": "Houston Cougars",
+      "aliases": [
+        "HOU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Howard Bison": {
+      "id": "47",
+      "name": "Howard Bison",
+      "aliases": [
+        "HOW"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "IU Indianapolis Jaguars": {
+      "id": "85",
+      "name": "IU Indianapolis Jaguars",
+      "aliases": [
+        "IUIN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Idaho State Bengals": {
+      "id": "304",
+      "name": "Idaho State Bengals",
+      "aliases": [
+        "IDST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Idaho Vandals": {
+      "id": "70",
+      "name": "Idaho Vandals",
+      "aliases": [
+        "IDHO"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Illinois Fighting Illini": {
+      "id": "356",
+      "name": "Illinois Fighting Illini",
+      "aliases": [
+        "ILL"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Illinois State Redbirds": {
+      "id": "2287",
+      "name": "Illinois State Redbirds",
+      "aliases": [
+        "ILST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Incarnate Word Cardinals": {
+      "id": "2916",
+      "name": "Incarnate Word Cardinals",
+      "aliases": [
+        "UIW"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Indiana Hoosiers": {
+      "id": "84",
+      "name": "Indiana Hoosiers",
+      "aliases": [
+        "IU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Indiana State Sycamores": {
+      "id": "282",
+      "name": "Indiana State Sycamores",
+      "aliases": [
+        "INST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Iona Gaels": {
+      "id": "314",
+      "name": "Iona Gaels",
+      "aliases": [
+        "IONA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Iowa Hawkeyes": {
+      "id": "2294",
+      "name": "Iowa Hawkeyes",
+      "aliases": [
+        "IOWA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Iowa State Cyclones": {
+      "id": "66",
+      "name": "Iowa State Cyclones",
+      "aliases": [
+        "ISU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Jackson State Tigers": {
+      "id": "2296",
+      "name": "Jackson State Tigers",
+      "aliases": [
+        "JKST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Jacksonville Dolphins": {
+      "id": "294",
+      "name": "Jacksonville Dolphins",
+      "aliases": [
+        "JAX"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Jacksonville State Gamecocks": {
+      "id": "55",
+      "name": "Jacksonville State Gamecocks",
+      "aliases": [
+        "JXST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "James Madison Dukes": {
+      "id": "256",
+      "name": "James Madison Dukes",
+      "aliases": [
+        "JMU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Kansas City Roos": {
+      "id": "140",
+      "name": "Kansas City Roos",
+      "aliases": [
+        "KC"
+      ],
+      "conference": "Division I",
       "gamesPlayed": 0,
       "dataWeight": 0,
       "power": 0,
@@ -41,12 +2087,60 @@
       }
     },
     "Kansas Jayhawks": {
-      "id": 3,
+      "id": "2305",
       "name": "Kansas Jayhawks",
       "aliases": [
         "KU"
       ],
-      "conference": "Big 12",
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Kansas State Wildcats": {
+      "id": "2306",
+      "name": "Kansas State Wildcats",
+      "aliases": [
+        "KSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Kennesaw State Owls": {
+      "id": "338",
+      "name": "Kennesaw State Owls",
+      "aliases": [
+        "KENN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Kent State Golden Flashes": {
+      "id": "2309",
+      "name": "Kent State Golden Flashes",
+      "aliases": [
+        "KENT"
+      ],
+      "conference": "Division I",
       "gamesPlayed": 0,
       "dataWeight": 0,
       "power": 0,
@@ -57,12 +2151,3644 @@
       }
     },
     "Kentucky Wildcats": {
-      "id": 4,
+      "id": "96",
       "name": "Kentucky Wildcats",
       "aliases": [
         "UK"
       ],
-      "conference": "SEC",
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "LSU New Orleans Privateers": {
+      "id": "2443",
+      "name": "LSU New Orleans Privateers",
+      "aliases": [
+        "NOLA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "LSU Tigers": {
+      "id": "99",
+      "name": "LSU Tigers",
+      "aliases": [
+        "LSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "La Salle Explorers": {
+      "id": "2325",
+      "name": "La Salle Explorers",
+      "aliases": [
+        "LAS"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Lafayette Leopards": {
+      "id": "322",
+      "name": "Lafayette Leopards",
+      "aliases": [
+        "LAF"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Lamar Cardinals": {
+      "id": "2320",
+      "name": "Lamar Cardinals",
+      "aliases": [
+        "LAM"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Le Moyne Dolphins": {
+      "id": "2330",
+      "name": "Le Moyne Dolphins",
+      "aliases": [
+        "LEM"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Lehigh Mountain Hawks": {
+      "id": "2329",
+      "name": "Lehigh Mountain Hawks",
+      "aliases": [
+        "LEH"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Liberty Flames": {
+      "id": "2335",
+      "name": "Liberty Flames",
+      "aliases": [
+        "LIB"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Lipscomb Bisons": {
+      "id": "288",
+      "name": "Lipscomb Bisons",
+      "aliases": [
+        "LIP"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Little Rock Trojans": {
+      "id": "2031",
+      "name": "Little Rock Trojans",
+      "aliases": [
+        "LR"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Long Beach State Beach": {
+      "id": "299",
+      "name": "Long Beach State Beach",
+      "aliases": [
+        "LBSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Long Island University Sharks": {
+      "id": "112358",
+      "name": "Long Island University Sharks",
+      "aliases": [
+        "LIU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Longwood Lancers": {
+      "id": "2344",
+      "name": "Longwood Lancers",
+      "aliases": [
+        "LONG"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Louisiana Ragin' Cajuns": {
+      "id": "309",
+      "name": "Louisiana Ragin' Cajuns",
+      "aliases": [
+        "UL"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Louisiana Tech Bulldogs": {
+      "id": "2348",
+      "name": "Louisiana Tech Bulldogs",
+      "aliases": [
+        "LT"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Louisville Cardinals": {
+      "id": "97",
+      "name": "Louisville Cardinals",
+      "aliases": [
+        "LOU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Loyola Chicago Ramblers": {
+      "id": "2350",
+      "name": "Loyola Chicago Ramblers",
+      "aliases": [
+        "LUC"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Loyola Maryland Greyhounds": {
+      "id": "2352",
+      "name": "Loyola Maryland Greyhounds",
+      "aliases": [
+        "L-MD"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Loyola Marymount Lions": {
+      "id": "2351",
+      "name": "Loyola Marymount Lions",
+      "aliases": [
+        "LMU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Maine Black Bears": {
+      "id": "311",
+      "name": "Maine Black Bears",
+      "aliases": [
+        "ME"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Manhattan Jaspers": {
+      "id": "2363",
+      "name": "Manhattan Jaspers",
+      "aliases": [
+        "MAN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Marist Red Foxes": {
+      "id": "2368",
+      "name": "Marist Red Foxes",
+      "aliases": [
+        "MRST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Marquette Golden Eagles": {
+      "id": "269",
+      "name": "Marquette Golden Eagles",
+      "aliases": [
+        "MARQ"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Marshall Thundering Herd": {
+      "id": "276",
+      "name": "Marshall Thundering Herd",
+      "aliases": [
+        "MRSH"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Maryland Eastern Shore Hawks": {
+      "id": "2379",
+      "name": "Maryland Eastern Shore Hawks",
+      "aliases": [
+        "UMES"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Maryland Terrapins": {
+      "id": "120",
+      "name": "Maryland Terrapins",
+      "aliases": [
+        "MD"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Massachusetts Minutemen": {
+      "id": "113",
+      "name": "Massachusetts Minutemen",
+      "aliases": [
+        "MASS"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "McNeese Cowboys": {
+      "id": "2377",
+      "name": "McNeese Cowboys",
+      "aliases": [
+        "MCN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Memphis Tigers": {
+      "id": "235",
+      "name": "Memphis Tigers",
+      "aliases": [
+        "MEM"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Mercer Bears": {
+      "id": "2382",
+      "name": "Mercer Bears",
+      "aliases": [
+        "MER"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Mercyhurst Lakers": {
+      "id": "2385",
+      "name": "Mercyhurst Lakers",
+      "aliases": [
+        "MERC"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Merrimack Warriors": {
+      "id": "2771",
+      "name": "Merrimack Warriors",
+      "aliases": [
+        "MRMK"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Miami (OH) RedHawks": {
+      "id": "193",
+      "name": "Miami (OH) RedHawks",
+      "aliases": [
+        "M-OH"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Miami Hurricanes": {
+      "id": "2390",
+      "name": "Miami Hurricanes",
+      "aliases": [
+        "MIA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Michigan State Spartans": {
+      "id": "127",
+      "name": "Michigan State Spartans",
+      "aliases": [
+        "MSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Michigan Wolverines": {
+      "id": "130",
+      "name": "Michigan Wolverines",
+      "aliases": [
+        "MICH"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Middle Tennessee Blue Raiders": {
+      "id": "2393",
+      "name": "Middle Tennessee Blue Raiders",
+      "aliases": [
+        "MTSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Milwaukee Panthers": {
+      "id": "270",
+      "name": "Milwaukee Panthers",
+      "aliases": [
+        "MILW"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Minnesota Golden Gophers": {
+      "id": "135",
+      "name": "Minnesota Golden Gophers",
+      "aliases": [
+        "MINN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Mississippi State Bulldogs": {
+      "id": "344",
+      "name": "Mississippi State Bulldogs",
+      "aliases": [
+        "MSST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Mississippi Valley State Delta Devils": {
+      "id": "2400",
+      "name": "Mississippi Valley State Delta Devils",
+      "aliases": [
+        "MVSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Missouri State Bears": {
+      "id": "2623",
+      "name": "Missouri State Bears",
+      "aliases": [
+        "MOST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Missouri Tigers": {
+      "id": "142",
+      "name": "Missouri Tigers",
+      "aliases": [
+        "MIZ"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Monmouth Hawks": {
+      "id": "2405",
+      "name": "Monmouth Hawks",
+      "aliases": [
+        "MONM"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Montana Grizzlies": {
+      "id": "149",
+      "name": "Montana Grizzlies",
+      "aliases": [
+        "MONT"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Montana State Bobcats": {
+      "id": "147",
+      "name": "Montana State Bobcats",
+      "aliases": [
+        "MTST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Morehead State Eagles": {
+      "id": "2413",
+      "name": "Morehead State Eagles",
+      "aliases": [
+        "MORE"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Morgan State Bears": {
+      "id": "2415",
+      "name": "Morgan State Bears",
+      "aliases": [
+        "MORG"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Mount St. Mary's Mountaineers": {
+      "id": "116",
+      "name": "Mount St. Mary's Mountaineers",
+      "aliases": [
+        "MSM"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Murray State Racers": {
+      "id": "93",
+      "name": "Murray State Racers",
+      "aliases": [
+        "MUR"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "NC State Wolfpack": {
+      "id": "152",
+      "name": "NC State Wolfpack",
+      "aliases": [
+        "NCSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "NJIT Highlanders": {
+      "id": "2885",
+      "name": "NJIT Highlanders",
+      "aliases": [
+        "NJIT"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Navy Midshipmen": {
+      "id": "2426",
+      "name": "Navy Midshipmen",
+      "aliases": [
+        "NAVY"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Nebraska Cornhuskers": {
+      "id": "158",
+      "name": "Nebraska Cornhuskers",
+      "aliases": [
+        "NEB"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Nevada Wolf Pack": {
+      "id": "2440",
+      "name": "Nevada Wolf Pack",
+      "aliases": [
+        "NEV"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "New Hampshire Wildcats": {
+      "id": "160",
+      "name": "New Hampshire Wildcats",
+      "aliases": [
+        "UNH"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "New Haven Chargers": {
+      "id": "2441",
+      "name": "New Haven Chargers",
+      "aliases": [
+        "NHVN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "New Mexico Lobos": {
+      "id": "167",
+      "name": "New Mexico Lobos",
+      "aliases": [
+        "UNM"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "New Mexico State Aggies": {
+      "id": "166",
+      "name": "New Mexico State Aggies",
+      "aliases": [
+        "NMSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Niagara Purple Eagles": {
+      "id": "315",
+      "name": "Niagara Purple Eagles",
+      "aliases": [
+        "NIA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Nicholls Colonels": {
+      "id": "2447",
+      "name": "Nicholls Colonels",
+      "aliases": [
+        "NICH"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Norfolk State Spartans": {
+      "id": "2450",
+      "name": "Norfolk State Spartans",
+      "aliases": [
+        "NORF"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "North Alabama Lions": {
+      "id": "2453",
+      "name": "North Alabama Lions",
+      "aliases": [
+        "UNA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "North Carolina A&T Aggies": {
+      "id": "2448",
+      "name": "North Carolina A&T Aggies",
+      "aliases": [
+        "NCAT"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "North Carolina Central Eagles": {
+      "id": "2428",
+      "name": "North Carolina Central Eagles",
+      "aliases": [
+        "NCCU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "North Carolina Tar Heels": {
+      "id": "153",
+      "name": "North Carolina Tar Heels",
+      "aliases": [
+        "UNC"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "North Dakota Fighting Hawks": {
+      "id": "155",
+      "name": "North Dakota Fighting Hawks",
+      "aliases": [
+        "UND"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "North Dakota State Bison": {
+      "id": "2449",
+      "name": "North Dakota State Bison",
+      "aliases": [
+        "NDSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "North Florida Ospreys": {
+      "id": "2454",
+      "name": "North Florida Ospreys",
+      "aliases": [
+        "UNF"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "North Texas Mean Green": {
+      "id": "249",
+      "name": "North Texas Mean Green",
+      "aliases": [
+        "UNT"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Northeastern Huskies": {
+      "id": "111",
+      "name": "Northeastern Huskies",
+      "aliases": [
+        "NE"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Northern Arizona Lumberjacks": {
+      "id": "2464",
+      "name": "Northern Arizona Lumberjacks",
+      "aliases": [
+        "NAU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Northern Colorado Bears": {
+      "id": "2458",
+      "name": "Northern Colorado Bears",
+      "aliases": [
+        "UNCO"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Northern Illinois Huskies": {
+      "id": "2459",
+      "name": "Northern Illinois Huskies",
+      "aliases": [
+        "NIU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Northern Iowa Panthers": {
+      "id": "2460",
+      "name": "Northern Iowa Panthers",
+      "aliases": [
+        "UNI"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Northern Kentucky Norse": {
+      "id": "94",
+      "name": "Northern Kentucky Norse",
+      "aliases": [
+        "NKU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Northwestern State Demons": {
+      "id": "2466",
+      "name": "Northwestern State Demons",
+      "aliases": [
+        "NWST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Northwestern Wildcats": {
+      "id": "77",
+      "name": "Northwestern Wildcats",
+      "aliases": [
+        "NU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Notre Dame Fighting Irish": {
+      "id": "87",
+      "name": "Notre Dame Fighting Irish",
+      "aliases": [
+        "ND"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Oakland Golden Grizzlies": {
+      "id": "2473",
+      "name": "Oakland Golden Grizzlies",
+      "aliases": [
+        "OAK"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Ohio Bobcats": {
+      "id": "195",
+      "name": "Ohio Bobcats",
+      "aliases": [
+        "OHIO"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Ohio State Buckeyes": {
+      "id": "194",
+      "name": "Ohio State Buckeyes",
+      "aliases": [
+        "OSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Oklahoma Sooners": {
+      "id": "201",
+      "name": "Oklahoma Sooners",
+      "aliases": [
+        "OU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Oklahoma State Cowboys": {
+      "id": "197",
+      "name": "Oklahoma State Cowboys",
+      "aliases": [
+        "OKST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Old Dominion Monarchs": {
+      "id": "295",
+      "name": "Old Dominion Monarchs",
+      "aliases": [
+        "ODU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Ole Miss Rebels": {
+      "id": "145",
+      "name": "Ole Miss Rebels",
+      "aliases": [
+        "MISS"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Omaha Mavericks": {
+      "id": "2437",
+      "name": "Omaha Mavericks",
+      "aliases": [
+        "OMA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Oral Roberts Golden Eagles": {
+      "id": "198",
+      "name": "Oral Roberts Golden Eagles",
+      "aliases": [
+        "ORU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Oregon Ducks": {
+      "id": "2483",
+      "name": "Oregon Ducks",
+      "aliases": [
+        "ORE"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Oregon State Beavers": {
+      "id": "204",
+      "name": "Oregon State Beavers",
+      "aliases": [
+        "ORST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Pacific Tigers": {
+      "id": "279",
+      "name": "Pacific Tigers",
+      "aliases": [
+        "PAC"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Penn State Nittany Lions": {
+      "id": "213",
+      "name": "Penn State Nittany Lions",
+      "aliases": [
+        "PSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Pennsylvania Quakers": {
+      "id": "219",
+      "name": "Pennsylvania Quakers",
+      "aliases": [
+        "PENN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Pepperdine Waves": {
+      "id": "2492",
+      "name": "Pepperdine Waves",
+      "aliases": [
+        "PEPP"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Pittsburgh Panthers": {
+      "id": "221",
+      "name": "Pittsburgh Panthers",
+      "aliases": [
+        "PITT"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Portland Pilots": {
+      "id": "2501",
+      "name": "Portland Pilots",
+      "aliases": [
+        "PORT"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Portland State Vikings": {
+      "id": "2502",
+      "name": "Portland State Vikings",
+      "aliases": [
+        "PRST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Prairie View A&M Panthers": {
+      "id": "2504",
+      "name": "Prairie View A&M Panthers",
+      "aliases": [
+        "PV"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Presbyterian Blue Hose": {
+      "id": "2506",
+      "name": "Presbyterian Blue Hose",
+      "aliases": [
+        "PRES"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Princeton Tigers": {
+      "id": "163",
+      "name": "Princeton Tigers",
+      "aliases": [
+        "PRIN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Providence Friars": {
+      "id": "2507",
+      "name": "Providence Friars",
+      "aliases": [
+        "PROV"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Purdue Boilermakers": {
+      "id": "2509",
+      "name": "Purdue Boilermakers",
+      "aliases": [
+        "PUR"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Purdue Fort Wayne Mastodons": {
+      "id": "2870",
+      "name": "Purdue Fort Wayne Mastodons",
+      "aliases": [
+        "PFW"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Quinnipiac Bobcats": {
+      "id": "2514",
+      "name": "Quinnipiac Bobcats",
+      "aliases": [
+        "QUIN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Radford Highlanders": {
+      "id": "2515",
+      "name": "Radford Highlanders",
+      "aliases": [
+        "RAD"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Rhode Island Rams": {
+      "id": "227",
+      "name": "Rhode Island Rams",
+      "aliases": [
+        "URI"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Rice Owls": {
+      "id": "242",
+      "name": "Rice Owls",
+      "aliases": [
+        "RICE"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Richmond Spiders": {
+      "id": "257",
+      "name": "Richmond Spiders",
+      "aliases": [
+        "RICH"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Rider Broncs": {
+      "id": "2520",
+      "name": "Rider Broncs",
+      "aliases": [
+        "RID"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Robert Morris Colonials": {
+      "id": "2523",
+      "name": "Robert Morris Colonials",
+      "aliases": [
+        "RMU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Rutgers Scarlet Knights": {
+      "id": "164",
+      "name": "Rutgers Scarlet Knights",
+      "aliases": [
+        "RUTG"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "SE Louisiana Lions": {
+      "id": "2545",
+      "name": "SE Louisiana Lions",
+      "aliases": [
+        "SELA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "SIU Edwardsville Cougars": {
+      "id": "2565",
+      "name": "SIU Edwardsville Cougars",
+      "aliases": [
+        "SIUE"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "SMU Mustangs": {
+      "id": "2567",
+      "name": "SMU Mustangs",
+      "aliases": [
+        "SMU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Sacramento State Hornets": {
+      "id": "16",
+      "name": "Sacramento State Hornets",
+      "aliases": [
+        "SAC"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Sacred Heart Pioneers": {
+      "id": "2529",
+      "name": "Sacred Heart Pioneers",
+      "aliases": [
+        "SHU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Saint Joseph's Hawks": {
+      "id": "2603",
+      "name": "Saint Joseph's Hawks",
+      "aliases": [
+        "JOES"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Saint Louis Billikens": {
+      "id": "139",
+      "name": "Saint Louis Billikens",
+      "aliases": [
+        "SLU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Saint Mary's Gaels": {
+      "id": "2608",
+      "name": "Saint Mary's Gaels",
+      "aliases": [
+        "SMC"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Saint Peter's Peacocks": {
+      "id": "2612",
+      "name": "Saint Peter's Peacocks",
+      "aliases": [
+        "SPU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Sam Houston Bearkats": {
+      "id": "2534",
+      "name": "Sam Houston Bearkats",
+      "aliases": [
+        "SHSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Samford Bulldogs": {
+      "id": "2535",
+      "name": "Samford Bulldogs",
+      "aliases": [
+        "SAM"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "San Diego State Aztecs": {
+      "id": "21",
+      "name": "San Diego State Aztecs",
+      "aliases": [
+        "SDSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "San Diego Toreros": {
+      "id": "301",
+      "name": "San Diego Toreros",
+      "aliases": [
+        "USD"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "San Francisco Dons": {
+      "id": "2539",
+      "name": "San Francisco Dons",
+      "aliases": [
+        "SF"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "San José State Spartans": {
+      "id": "23",
+      "name": "San José State Spartans",
+      "aliases": [
+        "SJSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Santa Clara Broncos": {
+      "id": "2541",
+      "name": "Santa Clara Broncos",
+      "aliases": [
+        "SCU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Seattle U Redhawks": {
+      "id": "2547",
+      "name": "Seattle U Redhawks",
+      "aliases": [
+        "SEA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Seton Hall Pirates": {
+      "id": "2550",
+      "name": "Seton Hall Pirates",
+      "aliases": [
+        "HALL"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Siena Saints": {
+      "id": "2561",
+      "name": "Siena Saints",
+      "aliases": [
+        "SIE"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "South Alabama Jaguars": {
+      "id": "6",
+      "name": "South Alabama Jaguars",
+      "aliases": [
+        "USA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "South Carolina Gamecocks": {
+      "id": "2579",
+      "name": "South Carolina Gamecocks",
+      "aliases": [
+        "SC"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "South Carolina State Bulldogs": {
+      "id": "2569",
+      "name": "South Carolina State Bulldogs",
+      "aliases": [
+        "SCST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "South Carolina Upstate Spartans": {
+      "id": "2908",
+      "name": "South Carolina Upstate Spartans",
+      "aliases": [
+        "UPST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "South Dakota Coyotes": {
+      "id": "233",
+      "name": "South Dakota Coyotes",
+      "aliases": [
+        "SDAK"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "South Dakota State Jackrabbits": {
+      "id": "2571",
+      "name": "South Dakota State Jackrabbits",
+      "aliases": [
+        "SDST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "South Florida Bulls": {
+      "id": "58",
+      "name": "South Florida Bulls",
+      "aliases": [
+        "USF"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Southeast Missouri State Redhawks": {
+      "id": "2546",
+      "name": "Southeast Missouri State Redhawks",
+      "aliases": [
+        "SEMO"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Southern Illinois Salukis": {
+      "id": "79",
+      "name": "Southern Illinois Salukis",
+      "aliases": [
+        "SIU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Southern Jaguars": {
+      "id": "2582",
+      "name": "Southern Jaguars",
+      "aliases": [
+        "SOU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Southern Miss Golden Eagles": {
+      "id": "2572",
+      "name": "Southern Miss Golden Eagles",
+      "aliases": [
+        "USM"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Southern Utah Thunderbirds": {
+      "id": "253",
+      "name": "Southern Utah Thunderbirds",
+      "aliases": [
+        "SUU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "St. Bonaventure Bonnies": {
+      "id": "179",
+      "name": "St. Bonaventure Bonnies",
+      "aliases": [
+        "SBU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "St. John's Red Storm": {
+      "id": "2599",
+      "name": "St. John's Red Storm",
+      "aliases": [
+        "SJU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "St. Thomas Tommies": {
+      "id": "2900",
+      "name": "St. Thomas Tommies",
+      "aliases": [
+        "STMN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Stanford Cardinal": {
+      "id": "24",
+      "name": "Stanford Cardinal",
+      "aliases": [
+        "STAN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Stephen F. Austin Lumberjacks": {
+      "id": "2617",
+      "name": "Stephen F. Austin Lumberjacks",
+      "aliases": [
+        "SFA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Stetson Hatters": {
+      "id": "56",
+      "name": "Stetson Hatters",
+      "aliases": [
+        "STET"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Stonehill Skyhawks": {
+      "id": "284",
+      "name": "Stonehill Skyhawks",
+      "aliases": [
+        "STO"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Stony Brook Seawolves": {
+      "id": "2619",
+      "name": "Stony Brook Seawolves",
+      "aliases": [
+        "STBK"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Syracuse Orange": {
+      "id": "183",
+      "name": "Syracuse Orange",
+      "aliases": [
+        "SYR"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "TCU Horned Frogs": {
+      "id": "2628",
+      "name": "TCU Horned Frogs",
+      "aliases": [
+        "TCU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Tarleton State Texans": {
+      "id": "2627",
+      "name": "Tarleton State Texans",
+      "aliases": [
+        "TAR"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Temple Owls": {
+      "id": "218",
+      "name": "Temple Owls",
+      "aliases": [
+        "TEM"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Tennessee State Tigers": {
+      "id": "2634",
+      "name": "Tennessee State Tigers",
+      "aliases": [
+        "TNST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Tennessee Tech Golden Eagles": {
+      "id": "2635",
+      "name": "Tennessee Tech Golden Eagles",
+      "aliases": [
+        "TNTC"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Tennessee Volunteers": {
+      "id": "2633",
+      "name": "Tennessee Volunteers",
+      "aliases": [
+        "TENN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Texas A&M Aggies": {
+      "id": "245",
+      "name": "Texas A&M Aggies",
+      "aliases": [
+        "TA&M"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Texas A&M-Corpus Christi Islanders": {
+      "id": "357",
+      "name": "Texas A&M-Corpus Christi Islanders",
+      "aliases": [
+        "AMCC"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Texas Longhorns": {
+      "id": "251",
+      "name": "Texas Longhorns",
+      "aliases": [
+        "TEX"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Texas Southern Tigers": {
+      "id": "2640",
+      "name": "Texas Southern Tigers",
+      "aliases": [
+        "TXSO"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Texas State Bobcats": {
+      "id": "326",
+      "name": "Texas State Bobcats",
+      "aliases": [
+        "TXST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Texas Tech Red Raiders": {
+      "id": "2641",
+      "name": "Texas Tech Red Raiders",
+      "aliases": [
+        "TTU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "The Citadel Bulldogs": {
+      "id": "2643",
+      "name": "The Citadel Bulldogs",
+      "aliases": [
+        "CIT"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Toledo Rockets": {
+      "id": "2649",
+      "name": "Toledo Rockets",
+      "aliases": [
+        "TOL"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Towson Tigers": {
+      "id": "119",
+      "name": "Towson Tigers",
+      "aliases": [
+        "TOW"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Troy Trojans": {
+      "id": "2653",
+      "name": "Troy Trojans",
+      "aliases": [
+        "TROY"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Tulane Green Wave": {
+      "id": "2655",
+      "name": "Tulane Green Wave",
+      "aliases": [
+        "TULN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Tulsa Golden Hurricane": {
+      "id": "202",
+      "name": "Tulsa Golden Hurricane",
+      "aliases": [
+        "TLSA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UAB Blazers": {
+      "id": "5",
+      "name": "UAB Blazers",
+      "aliases": [
+        "UAB"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UAlbany Great Danes": {
+      "id": "399",
+      "name": "UAlbany Great Danes",
+      "aliases": [
+        "UALB"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UC Davis Aggies": {
+      "id": "302",
+      "name": "UC Davis Aggies",
+      "aliases": [
+        "UCD"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UC Irvine Anteaters": {
+      "id": "300",
+      "name": "UC Irvine Anteaters",
+      "aliases": [
+        "UCI"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UC Riverside Highlanders": {
+      "id": "27",
+      "name": "UC Riverside Highlanders",
+      "aliases": [
+        "UCR"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UC San Diego Tritons": {
+      "id": "28",
+      "name": "UC San Diego Tritons",
+      "aliases": [
+        "UCSD"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UC Santa Barbara Gauchos": {
+      "id": "2540",
+      "name": "UC Santa Barbara Gauchos",
+      "aliases": [
+        "UCSB"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UCF Knights": {
+      "id": "2116",
+      "name": "UCF Knights",
+      "aliases": [
+        "UCF"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UCLA Bruins": {
+      "id": "26",
+      "name": "UCLA Bruins",
+      "aliases": [
+        "UCLA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UConn Huskies": {
+      "id": "41",
+      "name": "UConn Huskies",
+      "aliases": [
+        "CONN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UIC Flames": {
+      "id": "82",
+      "name": "UIC Flames",
+      "aliases": [
+        "UIC"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UL Monroe Warhawks": {
+      "id": "2433",
+      "name": "UL Monroe Warhawks",
+      "aliases": [
+        "ULM"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UMBC Retrievers": {
+      "id": "2378",
+      "name": "UMBC Retrievers",
+      "aliases": [
+        "UMBC"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UMass Lowell River Hawks": {
+      "id": "2349",
+      "name": "UMass Lowell River Hawks",
+      "aliases": [
+        "UML"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UNC Asheville Bulldogs": {
+      "id": "2427",
+      "name": "UNC Asheville Bulldogs",
+      "aliases": [
+        "UNCA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UNC Greensboro Spartans": {
+      "id": "2430",
+      "name": "UNC Greensboro Spartans",
+      "aliases": [
+        "UNCG"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UNC Wilmington Seahawks": {
+      "id": "350",
+      "name": "UNC Wilmington Seahawks",
+      "aliases": [
+        "UNCW"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UNLV Rebels": {
+      "id": "2439",
+      "name": "UNLV Rebels",
+      "aliases": [
+        "UNLV"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "USC Trojans": {
+      "id": "30",
+      "name": "USC Trojans",
+      "aliases": [
+        "USC"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UT Arlington Mavericks": {
+      "id": "250",
+      "name": "UT Arlington Mavericks",
+      "aliases": [
+        "UTA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UT Martin Skyhawks": {
+      "id": "2630",
+      "name": "UT Martin Skyhawks",
+      "aliases": [
+        "UTM"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UT Rio Grande Valley Vaqueros": {
+      "id": "292",
+      "name": "UT Rio Grande Valley Vaqueros",
+      "aliases": [
+        "RGV"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UTEP Miners": {
+      "id": "2638",
+      "name": "UTEP Miners",
+      "aliases": [
+        "UTEP"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "UTSA Roadrunners": {
+      "id": "2636",
+      "name": "UTSA Roadrunners",
+      "aliases": [
+        "UTSA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Utah State Aggies": {
+      "id": "328",
+      "name": "Utah State Aggies",
+      "aliases": [
+        "USU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Utah Tech Trailblazers": {
+      "id": "3101",
+      "name": "Utah Tech Trailblazers",
+      "aliases": [
+        "UTU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Utah Utes": {
+      "id": "254",
+      "name": "Utah Utes",
+      "aliases": [
+        "UTAH"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Utah Valley Wolverines": {
+      "id": "3084",
+      "name": "Utah Valley Wolverines",
+      "aliases": [
+        "UVU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "VCU Rams": {
+      "id": "2670",
+      "name": "VCU Rams",
+      "aliases": [
+        "VCU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "VMI Keydets": {
+      "id": "2678",
+      "name": "VMI Keydets",
+      "aliases": [
+        "VMI"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Valparaiso Beacons": {
+      "id": "2674",
+      "name": "Valparaiso Beacons",
+      "aliases": [
+        "VAL"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Vanderbilt Commodores": {
+      "id": "238",
+      "name": "Vanderbilt Commodores",
+      "aliases": [
+        "VAN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Vermont Catamounts": {
+      "id": "261",
+      "name": "Vermont Catamounts",
+      "aliases": [
+        "UVM"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Villanova Wildcats": {
+      "id": "222",
+      "name": "Villanova Wildcats",
+      "aliases": [
+        "VILL"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Virginia Cavaliers": {
+      "id": "258",
+      "name": "Virginia Cavaliers",
+      "aliases": [
+        "UVA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Virginia Tech Hokies": {
+      "id": "259",
+      "name": "Virginia Tech Hokies",
+      "aliases": [
+        "VT"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Wagner Seahawks": {
+      "id": "2681",
+      "name": "Wagner Seahawks",
+      "aliases": [
+        "WAG"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Wake Forest Demon Deacons": {
+      "id": "154",
+      "name": "Wake Forest Demon Deacons",
+      "aliases": [
+        "WAKE"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Washington Huskies": {
+      "id": "264",
+      "name": "Washington Huskies",
+      "aliases": [
+        "WASH"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Washington State Cougars": {
+      "id": "265",
+      "name": "Washington State Cougars",
+      "aliases": [
+        "WSU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Weber State Wildcats": {
+      "id": "2692",
+      "name": "Weber State Wildcats",
+      "aliases": [
+        "WEB"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "West Florida Argonauts": {
+      "id": "2697",
+      "name": "West Florida Argonauts",
+      "aliases": [
+        "UWF"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "West Georgia Wolves": {
+      "id": "2698",
+      "name": "West Georgia Wolves",
+      "aliases": [
+        "WGA"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "West Virginia Mountaineers": {
+      "id": "277",
+      "name": "West Virginia Mountaineers",
+      "aliases": [
+        "WVU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Western Carolina Catamounts": {
+      "id": "2717",
+      "name": "Western Carolina Catamounts",
+      "aliases": [
+        "WCU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Western Illinois Leathernecks": {
+      "id": "2710",
+      "name": "Western Illinois Leathernecks",
+      "aliases": [
+        "WIU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Western Kentucky Hilltoppers": {
+      "id": "98",
+      "name": "Western Kentucky Hilltoppers",
+      "aliases": [
+        "WKU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Western Michigan Broncos": {
+      "id": "2711",
+      "name": "Western Michigan Broncos",
+      "aliases": [
+        "WMU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Wichita State Shockers": {
+      "id": "2724",
+      "name": "Wichita State Shockers",
+      "aliases": [
+        "WICH"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "William & Mary Tribe": {
+      "id": "2729",
+      "name": "William & Mary Tribe",
+      "aliases": [
+        "W&M"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Winthrop Eagles": {
+      "id": "2737",
+      "name": "Winthrop Eagles",
+      "aliases": [
+        "WIN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Wisconsin Badgers": {
+      "id": "275",
+      "name": "Wisconsin Badgers",
+      "aliases": [
+        "WIS"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Wofford Terriers": {
+      "id": "2747",
+      "name": "Wofford Terriers",
+      "aliases": [
+        "WOF"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Wright State Raiders": {
+      "id": "2750",
+      "name": "Wright State Raiders",
+      "aliases": [
+        "WRST"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Wyoming Cowboys": {
+      "id": "2751",
+      "name": "Wyoming Cowboys",
+      "aliases": [
+        "WYO"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Xavier Musketeers": {
+      "id": "2752",
+      "name": "Xavier Musketeers",
+      "aliases": [
+        "XAV"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Yale Bulldogs": {
+      "id": "43",
+      "name": "Yale Bulldogs",
+      "aliases": [
+        "YALE"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Youngstown State Penguins": {
+      "id": "2754",
+      "name": "Youngstown State Penguins",
+      "aliases": [
+        "YSU"
+      ],
+      "conference": "Division I",
       "gamesPlayed": 0,
       "dataWeight": 0,
       "power": 0,
@@ -73,6 +5799,332 @@
       }
     }
   },
-  "games": [],
+  "games": [
+    {
+      "id": "401913435",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2065",
+      "venue": "Worthington Arena",
+      "homeTeam": "Montana State Bobcats",
+      "awayTeam": "Northern Colorado Bears",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401913434",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1995",
+      "venue": "Dahlberg Arena",
+      "homeTeam": "Montana Grizzlies",
+      "awayTeam": "Portland State Vikings",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401913433",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1904",
+      "venue": "Reed Gym",
+      "homeTeam": "Idaho State Bengals",
+      "awayTeam": "Northern Arizona Lumberjacks",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401913432",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "7264",
+      "venue": "ICCU Arena",
+      "homeTeam": "Idaho Vandals",
+      "awayTeam": "Southern Utah Thunderbirds",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401913431",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1959",
+      "venue": "Reese Court",
+      "homeTeam": "Eastern Washington Eagles",
+      "awayTeam": "Utah Tech Trailblazers",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401913274",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "6008",
+      "venue": "Chesapeake Employers Insurance Arena",
+      "homeTeam": "UMBC Retrievers",
+      "awayTeam": "NJIT Highlanders",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401913273",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "4485",
+      "venue": "Kennedy Family Athletic Complex",
+      "homeTeam": "UMass Lowell River Hawks",
+      "awayTeam": "New Hampshire Wildcats",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401913272",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1924",
+      "venue": "Events Center (Binghamton)",
+      "homeTeam": "Binghamton Bearcats",
+      "awayTeam": "Vermont Catamounts",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401913271",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2182",
+      "venue": "Chace Athletic Center",
+      "homeTeam": "Bryant Bulldogs",
+      "awayTeam": "Maine Black Bears",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401911970",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1940",
+      "venue": "Chartway Arena",
+      "homeTeam": "Old Dominion Monarchs",
+      "awayTeam": "Louisiana Tech Bulldogs",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401911969",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1935",
+      "venue": "Cam Henderson Center",
+      "homeTeam": "Marshall Thundering Herd",
+      "awayTeam": "Arkansas State Red Wolves",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401911968",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "7107",
+      "venue": "Atlantic Union Bank Center",
+      "homeTeam": "James Madison Dukes",
+      "awayTeam": "Troy Trojans",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401911967",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "7393",
+      "venue": "GSU Convocation Center",
+      "homeTeam": "Georgia State Panthers",
+      "awayTeam": "Louisiana Ragin' Cajuns",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401911966",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "10675",
+      "venue": "Jack and Ruth Ann Hill Convocation Center",
+      "homeTeam": "Georgia Southern Eagles",
+      "awayTeam": "Southern Miss Golden Eagles",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401911965",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "4308",
+      "venue": "The HTC Center",
+      "homeTeam": "Coastal Carolina Chanticleers",
+      "awayTeam": "UL Monroe Warhawks",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401911964",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2137",
+      "venue": "Holmes Convocation Center",
+      "homeTeam": "App State Mountaineers",
+      "awayTeam": "South Alabama Jaguars",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401911843",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "245",
+      "venue": "Ramsey Center",
+      "homeTeam": "Western Carolina Catamounts",
+      "awayTeam": "VMI Keydets",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401911842",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "349",
+      "venue": "First Horizon Coliseum",
+      "homeTeam": "UNC Greensboro Spartans",
+      "awayTeam": "Wofford Terriers",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401911841",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2166",
+      "venue": "Timmons Arena",
+      "homeTeam": "Furman Paladins",
+      "awayTeam": "Tennessee Tech Golden Eagles",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401911840",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2191",
+      "venue": "Pete Hanna Center",
+      "homeTeam": "Samford Bulldogs",
+      "awayTeam": "East Tennessee State Buccaneers",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401911839",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2154",
+      "venue": "McAlister Field House",
+      "homeTeam": "The Citadel Bulldogs",
+      "awayTeam": "Chattanooga Mocs",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401911699",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1917",
+      "venue": "Show Me Center",
+      "homeTeam": "Southeast Missouri State Redhawks",
+      "awayTeam": "Southern Indiana Screaming Eagles",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401911689",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2197",
+      "venue": "Western Hall",
+      "homeTeam": "Western Illinois Leathernecks",
+      "awayTeam": "SIU Edwardsville Cougars",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401911537",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2117",
+      "venue": "Don Haskins Center",
+      "homeTeam": "UTEP Miners",
+      "awayTeam": "New Mexico Lobos",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401911438",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2053",
+      "venue": "Arena-Auditorium",
+      "homeTeam": "Wyoming Cowboys",
+      "awayTeam": "Nevada Wolf Pack",
+      "homePoints": 0,
+      "awayPoints": 0
+    }
+  ],
   "venues": {}
 }
