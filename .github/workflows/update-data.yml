@@ -1,0 +1,36 @@
+name: Update Division I basketball data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 10 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: cbb-data-update
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Download Division I basketball data
+        env:
+          CBB_SEASON: ${{ vars.CBB_SEASON }}
+        run: node update-stats.mjs
+      - name: Test simulator
+        run: npm test
+      - name: Commit updated data
+        run: |
+          git config user.name "College Hoops Data Bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add live-data.json
+          git diff --cached --quiet || git commit -m "Update Division I basketball data"
+          git push
