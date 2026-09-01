@@ -1,0 +1,11 @@
+{
+  "name": "college-hoops-lab-simulator",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node update-stats.mjs",
+    "test": "node test-normalize.mjs && node test-browser.mjs",
+    "serve": "npx serve ."
+  }
+}

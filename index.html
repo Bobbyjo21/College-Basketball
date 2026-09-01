@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <meta name="theme-color" content="#07131f" />
+  <title>College Hoops Lab — Division I Simulator</title>
+  <style>
+    :root{--bg:#06111c;--panel:#0c1b29;--panel2:#102334;--ink:#f4f7fb;--muted:#8ea2b5;--line:#1c3549;--green:#59e39c;--gold:#ffca62;--red:#ff727c;--blue:#5fb7ff;--shadow:0 18px 50px #0006}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:radial-gradient(circle at 75% -15%,#174469 0,transparent 36%),var(--bg);color:var(--ink);font:15px/1.45 Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}button,input,select{font:inherit}.wrap{width:min(1160px,calc(100% - 28px));margin:auto}.top{padding:34px 0 20px;display:flex;justify-content:space-between;align-items:flex-end;gap:20px}.eyebrow{color:var(--green);font-weight:800;letter-spacing:.14em;text-transform:uppercase;font-size:11px}.brand{margin:4px 0 0;font-size:clamp(28px,5vw,48px);line-height:1;letter-spacing:-.05em}.sub{color:var(--muted);max-width:580px;margin:10px 0 0}.pill{white-space:nowrap;border:1px solid var(--line);border-radius:999px;padding:8px 12px;color:var(--muted);background:#091724}.grid{display:grid;grid-template-columns:minmax(0,1.1fr) minmax(330px,.9fr);gap:18px;padding-bottom:28px}.card{background:linear-gradient(180deg,#0d1e2d,#091723);border:1px solid var(--line);border-radius:20px;box-shadow:var(--shadow)}.pad{padding:20px}.section-title{display:flex;justify-content:space-between;align-items:center;margin-bottom:14px}.section-title h2{font-size:15px;margin:0;letter-spacing:.02em}.tag{font-size:11px;color:var(--muted)}.matchup{display:grid;grid-template-columns:1fr 44px 1fr;gap:10px;align-items:end}.vs{height:46px;display:grid;place-items:center;color:var(--muted);font-weight:800}.field label{display:block;color:var(--muted);font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.07em;margin:0 0 6px}.control,select,input[type=number],input[type=text]{width:100%;color:var(--ink);background:#071521;border:1px solid var(--line);border-radius:11px;padding:12px;outline:none}.control:focus,select:focus,input:focus{border-color:var(--blue);box-shadow:0 0 0 3px #5fb7ff20}.mini-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:12px}.toggle-row{display:flex;align-items:center;justify-content:space-between;border-top:1px solid var(--line);margin-top:16px;padding-top:14px;color:var(--muted)}.switch{position:relative;width:44px;height:25px}.switch input{opacity:0}.slider{position:absolute;inset:0;border-radius:999px;background:#273a49;cursor:pointer}.slider:after{content:"";position:absolute;width:19px;height:19px;top:3px;left:3px;border-radius:50%;background:white;transition:.2s}.switch input:checked+.slider{background:var(--green)}.switch input:checked+.slider:after{transform:translateX(19px)}.adjustments{margin-top:16px;display:grid;grid-template-columns:1fr 1fr;gap:12px}.range-row{background:#081723;border:1px solid var(--line);padding:11px;border-radius:12px}.range-head{display:flex;justify-content:space-between;color:var(--muted);font-size:12px}.range-head b{color:var(--ink)}input[type=range]{width:100%;accent-color:var(--green);margin-top:10px}.run{width:100%;border:0;border-radius:13px;background:var(--green);color:#042216;font-weight:900;letter-spacing:.04em;padding:15px;margin-top:16px;cursor:pointer;box-shadow:0 10px 30px #59e39c30}.run:hover{filter:brightness(1.08)}.run:active{transform:translateY(1px)}.scoreboard{overflow:hidden}.score-head{padding:18px 20px;border-bottom:1px solid var(--line);display:flex;justify-content:space-between;color:var(--muted)}.score-teams{display:grid;grid-template-columns:1fr 90px 1fr;align-items:center;padding:20px}.team-result{text-align:center}.team-result .abbr{font-size:12px;color:var(--muted);font-weight:800;letter-spacing:.1em}.team-result .pts{font-size:48px;line-height:1;font-weight:900;letter-spacing:-.06em;margin-top:6px}.dash{text-align:center;color:var(--muted);font-size:22px}.prob-wrap{padding:0 20px 20px}.prob-labels{display:flex;justify-content:space-between;font-weight:800;margin-bottom:7px}.probbar{height:12px;border-radius:999px;display:flex;overflow:hidden;background:#233647}.awaybar{background:var(--blue)}.homebar{background:var(--green)}.metrics{display:grid;grid-template-columns:repeat(2,1fr);gap:1px;background:var(--line);border-top:1px solid var(--line)}.metric{background:#091824;padding:15px}.metric span{display:block;color:var(--muted);font-size:11px;text-transform:uppercase;letter-spacing:.06em}.metric b{font-size:22px}.edge{color:var(--gold)}.note{color:var(--muted);font-size:12px;margin:12px 0 0}.tabs{display:flex;gap:8px;margin:0 0 14px}.tab{border:1px solid var(--line);background:#091824;color:var(--muted);border-radius:999px;padding:8px 12px;cursor:pointer}.tab.active{background:var(--ink);color:#08131d}.rating-tools{display:flex;gap:8px;margin-bottom:10px}.rating-tools input{flex:1}.ghost{border:1px solid var(--line);background:#0a1925;color:var(--ink);border-radius:10px;padding:0 12px;cursor:pointer}.rating-list{max-height:470px;overflow:auto;border:1px solid var(--line);border-radius:12px}.rating-item{display:grid;grid-template-columns:minmax(0,1fr) 72px 66px;gap:8px;align-items:center;padding:9px 10px;border-bottom:1px solid #172c3d}.rating-item:last-child{border:0}.rating-item .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.conf{display:block;color:var(--muted);font-size:10px}.rating-item input{padding:7px 8px;border-radius:8px}.rating-head{position:sticky;top:0;background:#102334;z-index:2;color:var(--muted);font-size:10px;text-transform:uppercase}.rating-head .name{font-weight:800}.method{grid-column:1/-1}.method-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--line);border-radius:13px;overflow:hidden}.method-cell{background:#091824;padding:14px}.method-cell b{display:block;color:var(--green);font-size:18px}.method-cell span{font-size:12px;color:var(--muted)}.footer{padding:0 0 38px;color:var(--muted);font-size:11px}.hidden{display:none!important}@media(max-width:820px){.top{align-items:flex-start;flex-direction:column}.pill{display:none}.grid{grid-template-columns:1fr}.scoreboard{order:-1}.method-grid{grid-template-columns:1fr 1fr}}@media(max-width:560px){.wrap{width:min(100% - 18px,1160px)}.pad{padding:15px}.matchup{grid-template-columns:1fr}.vs{height:18px}.mini-grid{grid-template-columns:1fr 1fr}.mini-grid .field:last-child{grid-column:1/-1}.adjustments{grid-template-columns:1fr}.score-teams{grid-template-columns:1fr 50px 1fr;padding:18px 10px}.team-result .pts{font-size:40px}.metrics{grid-template-columns:1fr 1fr}.metric{padding:12px}.metric b{font-size:19px}.rating-item{grid-template-columns:minmax(0,1fr) 64px 60px}.method-grid{grid-template-columns:1fr}}
+    details.advanced{margin-top:14px;border:1px solid var(--line);border-radius:13px;background:#081723}details.advanced>summary{cursor:pointer;padding:13px 14px;font-weight:800;list-style:none}details.advanced>summary::-webkit-details-marker{display:none}details.advanced>summary:after{content:'＋';float:right;color:var(--green)}details.advanced[open]>summary:after{content:'−'}.live-row{margin:0 14px 12px;padding:10px 11px;border:1px solid var(--line);border-radius:11px;display:flex;justify-content:space-between;align-items:center;gap:10px}.live-row b,.live-row span{display:block}.live-row span{font-size:11px;color:var(--muted)}.live-row button{border:1px solid var(--green);color:var(--green);background:#59e39c0d;border-radius:9px;padding:8px 10px;white-space:nowrap;cursor:pointer}.factor-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:10px;padding:0 14px 14px}.factor-grid .field label{font-size:9px}.factor-grid input,.factor-grid select{padding:9px}.driver-list{border-top:1px solid var(--line);padding:14px 18px}.driver-list h3{font-size:11px;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);margin:0 0 8px}.driver{display:flex;justify-content:space-between;gap:12px;padding:6px 0;border-bottom:1px solid #142a3b;font-size:12px}.driver:last-child{border:0}.driver b.pos{color:var(--green)}.driver b.neg{color:var(--red)}.data-actions{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}.data-actions button,.data-actions label{border:1px solid var(--line);background:#0a1925;color:var(--ink);border-radius:10px;padding:9px 12px;cursor:pointer}.coverage{height:8px;border-radius:999px;background:#213647;overflow:hidden;margin:8px 0}.coverage>div{height:100%;background:var(--green);width:0}.editor-groups{max-height:540px;overflow:auto}.stat-group{border:1px solid var(--line);border-radius:12px;margin-top:9px;overflow:hidden}.stat-group summary{cursor:pointer;padding:11px 12px;background:#0d2030;font-weight:800}.stat-fields{display:grid;grid-template-columns:1fr 1fr;gap:9px;padding:10px}.stat-field label{display:block;color:var(--muted);font-size:10px;margin-bottom:4px}.stat-field input{padding:8px}.source-dot{display:inline-block;width:7px;height:7px;border-radius:50%;background:var(--gold);margin-right:5px}.source-dot.real{background:var(--green)}.model-mode{display:flex;gap:8px;margin:12px 0}.model-mode label{flex:1;border:1px solid var(--line);border-radius:10px;padding:9px;text-align:center;color:var(--muted);cursor:pointer}.model-mode input{margin-right:5px}.model-mode label:has(input:checked){border-color:var(--green);color:var(--ink);background:#59e39c12}@media(max-width:700px){.factor-grid{grid-template-columns:1fr 1fr}.stat-fields{grid-template-columns:1fr}.live-row{align-items:flex-start;flex-direction:column}.live-row button{width:100%}}@media(max-width:420px){.factor-grid{grid-template-columns:1fr}}
+  </style>
+</head>
+<body>
+  <header class="wrap top">
+    <div><div class="eyebrow">College Hoops Lab</div><h1 class="brand">Division I Basketball Simulator</h1><p class="sub">Run thousands of games using all Division I men’s basketball teams, current statistics, team-specific home-court advantage and matchup adjustments.</p></div>
+    <div class="pill" id="liveStatus">Loading live data…</div>
+  </header>
+  <main class="wrap grid">
+    <section class="card pad">
+      <div class="section-title"><h2>Build a matchup</h2><span class="tag">Ratings are points vs. average</span></div>
+      <div class="matchup">
+        <div class="field"><label for="away">Away team</label><select id="away"></select></div>
+        <div class="vs">AT</div>
+        <div class="field"><label for="home">Home team</label><select id="home"></select></div>
+      </div>
+      <div class="mini-grid">
+        <div class="field"><label for="spread">Home spread</label><input id="spread" type="number" step="0.5" value="-4.5" /></div>
+        <div class="field"><label for="total">Game total</label><input id="total" type="number" step="0.5" value="145.5" /></div>
+        <div class="field"><label for="sims">Simulations</label><select id="sims"><option value="1000">1,000</option><option value="10000" selected>10,000</option><option value="50000">50,000</option></select></div>
+      </div>
+      <div class="toggle-row"><span>Neutral-site game (removes home-court advantage)</span><label class="switch"><input id="neutral" type="checkbox"><span class="slider"></span></label></div>
+      <div class="adjustments">
+        <div class="range-row"><div class="range-head"><span>Away matchup adjustment</span><b id="awayAdjLabel">0.0</b></div><input id="awayAdj" type="range" min="-14" max="14" step="0.5" value="0"></div>
+        <div class="range-row"><div class="range-head"><span>Home matchup adjustment</span><b id="homeAdjLabel">0.0</b></div><input id="homeAdj" type="range" min="-14" max="14" step="0.5" value="0"></div>
+        <div class="range-row"><div class="range-head"><span>Scoring environment</span><b id="paceLabel">0 pts</b></div><input id="pace" type="range" min="-20" max="20" step="1" value="0"></div>
+        <div class="range-row"><div class="range-head"><span>Game volatility</span><b id="volLabel">Normal</b></div><input id="vol" type="range" min="7" max="15" step="1" value="10"></div>
+      </div>
+      <details class="advanced">
+        <summary>Rest, travel and availability</summary>
+        <div class="live-row"><div><b id="contextTitle">Automatic game context</b><span id="contextStatus">Select a scheduled matchup to fill these fields.</span></div><button type="button" id="autoContext">Refresh context</button></div>
+        <div class="factor-grid">
+          <div class="field"><label for="gameDate">Game date/time</label><input id="gameDate" type="datetime-local"></div>
+          <div class="field"><label for="awayRest">Away rest days</label><input id="awayRest" type="number" min="3" max="30" value="7"></div>
+          <div class="field"><label for="homeRest">Home rest days</label><input id="homeRest" type="number" min="3" max="30" value="7"></div>
+          <div class="field"><label for="awayTravel">Away travel miles</label><input id="awayTravel" type="number" min="0" max="6000" step="50" value="0"></div>
+          <div class="field"><label for="homeTravel">Home travel miles</label><input id="homeTravel" type="number" min="0" max="6000" step="50" value="0"></div>
+          <div class="field"><label for="awayZones">Away time zones</label><input id="awayZones" type="number" min="0" max="6" value="0"></div>
+          <div class="field"><label for="homeZones">Home time zones</label><input id="homeZones" type="number" min="0" max="6" value="0"></div>
+          <div class="field"><label for="altitude">Venue altitude (ft)</label><input id="altitude" type="number" min="0" max="8000" step="100" value="0"></div>
+          <div class="field"><label for="awayQb">Away best player</label><select id="awayQb"><option value="0">Available</option><option value="-1.5">Limited</option><option value="-4">Out</option><option value="-7">Multiple starters out</option></select></div>
+          <div class="field"><label for="homeQb">Home best player</label><select id="homeQb"><option value="0">Available</option><option value="-1.5">Limited</option><option value="-4">Out</option><option value="-7">Multiple starters out</option></select></div>
+          <div class="field"><label for="awayInj">Away other injuries (pts)</label><input id="awayInj" type="number" min="-15" max="0" step="0.5" value="0"></div>
+          <div class="field"><label for="homeInj">Home other injuries (pts)</label><input id="homeInj" type="number" min="-15" max="0" step="0.5" value="0"></div>
+        </div>
+      </details>
+      <button class="run" id="run">SIMULATE 10,000 GAMES</button>
+      <p class="note">Use matchup adjustments for player availability, travel, style mismatches or your own opinion. A +3 adjustment is worth three points.</p>
+    </section>
+
+    <aside class="card scoreboard">
+      <div class="score-head"><span id="matchLabel">Creighton at Nebraska</span><span id="simLabel">10,000 runs</span></div>
+      <div class="score-teams"><div class="team-result"><div class="abbr" id="awayName">CREIGHTON</div><div class="pts" id="awayScore">74</div></div><div class="dash">—</div><div class="team-result"><div class="abbr" id="homeName">NEBRASKA</div><div class="pts" id="homeScore">71</div></div></div>
+      <div class="prob-wrap"><div class="prob-labels"><span id="awayWin">39.0%</span><span id="homeWin">61.0%</span></div><div class="probbar"><div class="awaybar" id="awayBar" style="width:39%"></div><div class="homebar" id="homeBar" style="width:61%"></div></div></div>
+      <div class="metrics">
+        <div class="metric"><span>Projected margin</span><b id="projMargin">Creighton by 3.0</b></div>
+        <div class="metric"><span>Average total</span><b id="avgTotal">145.0</b></div>
+        <div class="metric"><span id="coverTitle">Home -3.5 covers</span><b class="edge" id="coverPct">52.8%</b></div>
+        <div class="metric"><span id="overTitle">Over 145.5</span><b class="edge" id="overPct">47.1%</b></div>
+        <div class="metric"><span>Five-point game</span><b id="closePct">46.2%</b></div>
+        <div class="metric"><span>Upset chance</span><b id="upsetPct">39.0%</b></div>
+      </div>
+      <div class="driver-list"><h3>Why the model leans this way</h3><div id="drivers"></div></div>
+    </aside>
+
+    <section class="card pad">
+      <div class="section-title"><h2>Edit team ratings</h2><span class="tag" id="saveState">Saved on this device</span></div>
+      <div class="rating-tools"><input id="search" type="text" placeholder="Search Division I teams…"><button class="ghost" id="reset">Reset</button></div>
+      <div class="rating-list" id="ratingList"></div>
+      <p class="note">Power is a neutral-field rating in points versus an average Division I team. HFA is that team's home-court advantage.</p>
+    </section>
+
+    <section class="card pad">
+      <div class="section-title"><h2>Advanced team data</h2><span class="tag"><span class="source-dot" id="sourceDot"></span><span id="coverageLabel">Model priors</span></span></div>
+      <p class="note">The simulator starts with transparent estimates anchored to each team's power rating. Import measured team statistics to replace those estimates.</p>
+      <div class="coverage"><div id="coverageBar"></div></div>
+      <div class="model-mode"><label><input type="radio" name="mode" value="balanced" checked> Balanced</label><label><input type="radio" name="mode" value="stats"> Stats-heavy</label><label><input type="radio" name="mode" value="ratings"> Ratings-only</label></div>
+      <div class="data-actions"><label for="csvFile">Import team CSV</label><input id="csvFile" type="file" accept=".csv,text/csv" class="hidden"><button id="downloadTemplate">Download CSV template</button><button id="clearStats">Clear imported stats</button></div>
+      <div class="field"><label for="editorTeam">Edit one team</label><select id="editorTeam"></select></div>
+      <div class="editor-groups" id="statEditor"></div>
+    </section>
+
+    <section class="card pad">
+      <div class="section-title"><h2>How the realistic model works</h2><span class="tag">Possession by possession</span></div>
+      <div class="tabs"><button class="tab active" data-tab="model">Model</button><button class="tab" data-tab="tips">Adjustment tips</button></div>
+      <div id="modelTab">
+        <div class="method-grid">
+          <div class="method-cell"><b>1</b><span>Estimate possessions from adjusted tempo</span></div><div class="method-cell"><b>2</b><span>Match shooting and offensive efficiency against the defense</span></div><div class="method-cell"><b>3</b><span>Apply rest, travel, home court and player availability</span></div><div class="method-cell"><b>4</b><span>Simulate twos, threes, free throws, turnovers and overtime</span></div>
+        </div>
+        <p class="note">Correlated measurements are grouped before weighting to reduce double-counting. Measured data overrides the rating-based prior; missing fields fall back safely instead of becoming zero.</p>
+        <p class="note"><strong>Core matchup weighting:</strong> overall efficiency 30%, shooting quality 18%, turnovers 12%, rebounding 10%, ratings/opponent strength 15%, free throws and fouls 5%, pace 5%, and recent/situational performance 5%. Direct point adjustments for home court, rest, travel and availability are applied afterward.</p>
+      </div>
+      <div id="tipsTab" class="hidden"><div class="method-grid"><div class="method-cell"><b>±1–2</b><span>Small injury, travel or matchup edge</span></div><div class="method-cell"><b>±3–5</b><span>Leading scorer or multiple-player news</span></div><div class="method-cell"><b>−4–10</b><span>Major availability loss or severe pace downgrade</span></div><div class="method-cell"><b>+4–10</b><span>Fast pace or weak defensive matchup</span></div></div></div>
+    </section>
+  </main>
+  <footer class="wrap footer">Ratings update from current Division I results and measured team statistics. This independent simulator is for informational and entertainment use only.</footer>
+<script src="app.js"></script>
+</body>
+</html>

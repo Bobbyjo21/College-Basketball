@@ -1,0 +1,78 @@
+{
+  "season": 2027,
+  "updatedAt": "2026-09-01T19:58:39.766Z",
+  "sources": {
+    "espn": true
+  },
+  "warnings": [
+    "Run the daily workflow to load every Division I team."
+  ],
+  "teams": {
+    "Nebraska Cornhuskers": {
+      "id": 1,
+      "name": "Nebraska Cornhuskers",
+      "aliases": [
+        "NEB"
+      ],
+      "conference": "Big Ten",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Creighton Bluejays": {
+      "id": 2,
+      "name": "Creighton Bluejays",
+      "aliases": [
+        "CREI"
+      ],
+      "conference": "Big East",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Kansas Jayhawks": {
+      "id": 3,
+      "name": "Kansas Jayhawks",
+      "aliases": [
+        "KU"
+      ],
+      "conference": "Big 12",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Kentucky Wildcats": {
+      "id": 4,
+      "name": "Kentucky Wildcats",
+      "aliases": [
+        "UK"
+      ],
+      "conference": "SEC",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    }
+  },
+  "games": [],
+  "venues": {}
+}
