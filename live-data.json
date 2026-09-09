@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-09-08T10:42:30.217Z",
+  "updatedAt": "2026-09-09T10:42:31.598Z",
   "sources": {
     "espn": true
   },
@@ -5801,6 +5801,45 @@
   },
   "games": [
     {
+      "id": "401917976",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "4531",
+      "venue": "Moody Coliseum (Abilene)",
+      "homeTeam": "Abilene Christian Wildcats",
+      "awayTeam": "Jacksonville Dolphins",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401917961",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "11945",
+      "venue": "UWF Field House",
+      "homeTeam": "West Florida Argonauts",
+      "awayTeam": "Austin Peay Governors",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401917912",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "7093",
+      "venue": "Knights Hall",
+      "homeTeam": "Bellarmine Knights",
+      "awayTeam": "West Georgia Wolves",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
       "id": "401917599",
       "week": "",
       "startDate": "2027-01-02T05:00Z",
@@ -6083,45 +6122,6 @@
       "venue": "Cam Henderson Center",
       "homeTeam": "Marshall Thundering Herd",
       "awayTeam": "Arkansas State Red Wolves",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401911968",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "7107",
-      "venue": "Atlantic Union Bank Center",
-      "homeTeam": "James Madison Dukes",
-      "awayTeam": "Troy Trojans",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401911967",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "7393",
-      "venue": "GSU Convocation Center",
-      "homeTeam": "Georgia State Panthers",
-      "awayTeam": "Louisiana Ragin' Cajuns",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401911966",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "10675",
-      "venue": "Jack and Ruth Ann Hill Convocation Center",
-      "homeTeam": "Georgia Southern Eagles",
-      "awayTeam": "Southern Miss Golden Eagles",
       "homePoints": 0,
       "awayPoints": 0
     }
