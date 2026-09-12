@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-09-11T10:41:57.478Z",
+  "updatedAt": "2026-09-12T10:39:19.931Z",
   "sources": {
     "espn": true
   },
@@ -5801,6 +5801,32 @@
   },
   "games": [
     {
+      "id": "401919835",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "11540",
+      "venue": "Jeffery P. Hazell Athletics Center",
+      "homeTeam": "New Haven Chargers",
+      "awayTeam": "Mercyhurst Lakers",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401919596",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1951",
+      "venue": "Jones Convocation Center",
+      "homeTeam": "Chicago State Cougars",
+      "awayTeam": "Central Connecticut Blue Devils",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
       "id": "401918107",
       "week": "",
       "startDate": "2027-01-02T05:00Z",
@@ -6096,32 +6122,6 @@
       "venue": "Worthington Arena",
       "homeTeam": "Montana State Bobcats",
       "awayTeam": "Northern Colorado Bears",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401913434",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "1995",
-      "venue": "Dahlberg Arena",
-      "homeTeam": "Montana Grizzlies",
-      "awayTeam": "Portland State Vikings",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401913433",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "1904",
-      "venue": "Reed Gym",
-      "homeTeam": "Idaho State Bengals",
-      "awayTeam": "Northern Arizona Lumberjacks",
       "homePoints": 0,
       "awayPoints": 0
     }
