@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-09-18T10:40:47.004Z",
+  "updatedAt": "2026-09-19T10:39:38.466Z",
   "sources": {
     "espn": true
   },
@@ -5801,6 +5801,32 @@
   },
   "games": [
     {
+      "id": "401922527",
+      "week": "",
+      "startDate": "2027-01-01T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2098",
+      "venue": "Curb Event Center Arena",
+      "homeTeam": "Belmont Bruins",
+      "awayTeam": "UIC Flames",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401922526",
+      "week": "",
+      "startDate": "2027-01-01T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2022",
+      "venue": "CFSB Center",
+      "homeTeam": "Murray State Racers",
+      "awayTeam": "Drake Bulldogs",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
       "id": "401920284",
       "week": "",
       "startDate": "2027-01-01T19:00Z",
@@ -5823,6 +5849,45 @@
       "venue": "MVP Arena",
       "homeTeam": "Siena Saints",
       "awayTeam": "Iona Gaels",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401922530",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2159",
+      "venue": "Athletics-Recreation Center",
+      "homeTeam": "Valparaiso Beacons",
+      "awayTeam": "Southern Illinois Salukis",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401922529",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1932",
+      "venue": "CEFCU Arena",
+      "homeTeam": "Illinois State Redbirds",
+      "awayTeam": "Indiana State Sycamores",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401922528",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1948",
+      "venue": "McLeod Center",
+      "homeTeam": "Northern Iowa Panthers",
+      "awayTeam": "Evansville Purple Aces",
       "homePoints": 0,
       "awayPoints": 0
     },
@@ -6057,71 +6122,6 @@
       "venue": "Kirby Sports Center",
       "homeTeam": "Lafayette Leopards",
       "awayTeam": "Colgate Raiders",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401920585",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "1973",
-      "venue": "Cintas Center",
-      "homeTeam": "Xavier Musketeers",
-      "awayTeam": "Seton Hall Pirates",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401920584",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "5427",
-      "venue": "Wintrust Arena",
-      "homeTeam": "DePaul Blue Demons",
-      "awayTeam": "Providence Friars",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401919835",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "11540",
-      "venue": "Jeffery P. Hazell Athletics Center",
-      "homeTeam": "New Haven Chargers",
-      "awayTeam": "Mercyhurst Lakers",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401919596",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "1951",
-      "venue": "Jones Convocation Center",
-      "homeTeam": "Chicago State Cougars",
-      "awayTeam": "Central Connecticut Blue Devils",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401918107",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "135",
-      "venue": "Conte Forum",
-      "homeTeam": "Boston College Eagles",
-      "awayTeam": "North Carolina Tar Heels",
       "homePoints": 0,
       "awayPoints": 0
     }
