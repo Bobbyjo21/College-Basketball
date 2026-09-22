@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-09-21T10:40:35.240Z",
+  "updatedAt": "2026-09-22T10:41:39.627Z",
   "sources": {
     "espn": true
   },
@@ -5853,6 +5853,19 @@
       "awayPoints": 0
     },
     {
+      "id": "401923405",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2141",
+      "venue": "Stabler Arena",
+      "homeTeam": "Lehigh Mountain Hawks",
+      "awayTeam": "Boston University Terriers",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
       "id": "401922776",
       "week": "",
       "startDate": "2027-01-02T05:00Z",
@@ -6109,19 +6122,6 @@
       "venue": "Kohl Center",
       "homeTeam": "Wisconsin Badgers",
       "awayTeam": "Illinois Fighting Illini",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401921782",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "2092",
-      "venue": "Simon Skjodt Assembly Hall",
-      "homeTeam": "Indiana Hoosiers",
-      "awayTeam": "USC Trojans",
       "homePoints": 0,
       "awayPoints": 0
     }
