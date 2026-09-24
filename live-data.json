@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-09-23T10:41:47.252Z",
+  "updatedAt": "2026-09-24T10:41:51.778Z",
   "sources": {
     "espn": true
   },
@@ -5801,6 +5801,58 @@
   },
   "games": [
     {
+      "id": "401924034",
+      "week": "",
+      "startDate": "2027-01-01T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2070",
+      "venue": "G.B. Hodge Center",
+      "homeTeam": "South Carolina Upstate Spartans",
+      "awayTeam": "UNC Asheville Bulldogs",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401924033",
+      "week": "",
+      "startDate": "2027-01-01T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1901",
+      "venue": "The Dedmon Center",
+      "homeTeam": "Radford Highlanders",
+      "awayTeam": "Presbyterian Blue Hose",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401924032",
+      "week": "",
+      "startDate": "2027-01-01T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1922",
+      "venue": "Winthrop Coliseum",
+      "homeTeam": "Winthrop Eagles",
+      "awayTeam": "Gardner-Webb Runnin' Bulldogs",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401924031",
+      "week": "",
+      "startDate": "2027-01-01T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "7511",
+      "venue": "Joan Perry Brock Center",
+      "homeTeam": "Longwood Lancers",
+      "awayTeam": "Charleston Southern Buccaneers",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
       "id": "401922527",
       "week": "",
       "startDate": "2027-01-01T05:00Z",
@@ -6070,58 +6122,6 @@
       "venue": "Pinnacle Bank Arena",
       "homeTeam": "Nebraska Cornhuskers",
       "awayTeam": "Michigan State Spartans",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401921895",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "1986",
-      "venue": "Crisler Center",
-      "homeTeam": "Michigan Wolverines",
-      "awayTeam": "Washington Huskies",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401921894",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "2133",
-      "venue": "XFINITY Center",
-      "homeTeam": "Maryland Terrapins",
-      "awayTeam": "UCLA Bruins",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401921893",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "363",
-      "venue": "Carver-Hawkeye Arena",
-      "homeTeam": "Iowa Hawkeyes",
-      "awayTeam": "Ohio State Buckeyes",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401921836",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "348",
-      "venue": "Kohl Center",
-      "homeTeam": "Wisconsin Badgers",
-      "awayTeam": "Illinois Fighting Illini",
       "homePoints": 0,
       "awayPoints": 0
     }
