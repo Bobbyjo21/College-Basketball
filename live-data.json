@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-09-27T10:40:28.920Z",
+  "updatedAt": "2026-09-28T10:43:45.669Z",
   "sources": {
     "espn": true
   },
@@ -5827,19 +5827,6 @@
       "awayPoints": 0
     },
     {
-      "id": "401924032",
-      "week": "",
-      "startDate": "2027-01-01T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "1922",
-      "venue": "Winthrop Coliseum",
-      "homeTeam": "Winthrop Eagles",
-      "awayTeam": "Gardner-Webb Runnin' Bulldogs",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
       "id": "401924031",
       "week": "",
       "startDate": "2027-01-01T05:00Z",
@@ -5918,6 +5905,19 @@
       "awayPoints": 0
     },
     {
+      "id": "401924032",
+      "week": "",
+      "startDate": "2027-01-01T19:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1922",
+      "venue": "Winthrop Coliseum",
+      "homeTeam": "Winthrop Eagles",
+      "awayTeam": "Gardner-Webb Runnin' Bulldogs",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
       "id": "401920284",
       "week": "",
       "startDate": "2027-01-01T19:00Z",
@@ -5953,6 +5953,58 @@
       "venue": "Alumni Gymnasium (Rider)",
       "homeTeam": "Rider Broncs",
       "awayTeam": "Fairfield Stags",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401926122",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2027",
+      "venue": "William J. Nicks Building",
+      "homeTeam": "Prairie View A&M Panthers",
+      "awayTeam": "Grambling Tigers",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401925929",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1978",
+      "venue": "Burr Gymnasium",
+      "homeTeam": "Howard Bison",
+      "awayTeam": "South Carolina State Bulldogs",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401925845",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2021",
+      "venue": "Hill Field House",
+      "homeTeam": "Morgan State Bears",
+      "awayTeam": "Maryland Eastern Shore Hawks",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401925719",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2205",
+      "venue": "Al Lawson Center",
+      "homeTeam": "Florida A&M Rattlers",
+      "awayTeam": "Bethune-Cookman Wildcats",
       "homePoints": 0,
       "awayPoints": 0
     },
@@ -6070,58 +6122,6 @@
       "venue": "Gallagher-Iba Arena",
       "homeTeam": "Oklahoma State Cowboys",
       "awayTeam": "Colorado Buffaloes",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401922770",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "833",
-      "venue": "Desert Financial Arena",
-      "homeTeam": "Arizona State Sun Devils",
-      "awayTeam": "BYU Cougars",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401922769",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "432",
-      "venue": "Hilton Coliseum",
-      "homeTeam": "Iowa State Cyclones",
-      "awayTeam": "Arizona Wildcats",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401922530",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "2159",
-      "venue": "Athletics-Recreation Center",
-      "homeTeam": "Valparaiso Beacons",
-      "awayTeam": "Southern Illinois Salukis",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401922529",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "1932",
-      "venue": "CEFCU Arena",
-      "homeTeam": "Illinois State Redbirds",
-      "awayTeam": "Indiana State Sycamores",
       "homePoints": 0,
       "awayPoints": 0
     }
