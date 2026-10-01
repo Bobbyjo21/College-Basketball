@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-09-30T10:44:35.449Z",
+  "updatedAt": "2026-10-01T10:44:36.365Z",
   "sources": {
     "espn": true
   },
@@ -5957,6 +5957,32 @@
       "awayPoints": 0
     },
     {
+      "id": "401927638",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2011",
+      "venue": "Liacouras Center",
+      "homeTeam": "Temple Owls",
+      "awayTeam": "UTSA Roadrunners",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401927637",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2155",
+      "venue": "Bartow Arena",
+      "homeTeam": "UAB Blazers",
+      "awayTeam": "East Carolina Pirates",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
       "id": "401927222",
       "week": "",
       "startDate": "2027-01-02T05:00Z",
@@ -6096,32 +6122,6 @@
       "venue": "Al Lawson Center",
       "homeTeam": "Florida A&M Rattlers",
       "awayTeam": "Bethune-Cookman Wildcats",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401925054",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "1939",
-      "venue": "Prather Coliseum",
-      "homeTeam": "Northwestern State Demons",
-      "awayTeam": "LSU New Orleans Privateers",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401924917",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "2083",
-      "venue": "Thomas & Mack Center",
-      "homeTeam": "UNLV Rebels",
-      "awayTeam": "North Dakota Fighting Hawks",
       "homePoints": 0,
       "awayPoints": 0
     }
