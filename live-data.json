@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-10-03T14:48:39.363Z",
+  "updatedAt": "2026-10-04T15:27:48.719Z",
   "sources": {
     "espn": true
   },
@@ -5957,6 +5957,19 @@
       "awayPoints": 0
     },
     {
+      "id": "401928364",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2165",
+      "venue": "H&PE Arena",
+      "homeTeam": "Texas Southern Tigers",
+      "awayTeam": "Southern Jaguars",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
       "id": "401927638",
       "week": "",
       "startDate": "2027-01-02T05:00Z",
@@ -6109,19 +6122,6 @@
       "venue": "Hill Field House",
       "homeTeam": "Morgan State Bears",
       "awayTeam": "Maryland Eastern Shore Hawks",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401925719",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "2205",
-      "venue": "Al Lawson Center",
-      "homeTeam": "Florida A&M Rattlers",
-      "awayTeam": "Bethune-Cookman Wildcats",
       "homePoints": 0,
       "awayPoints": 0
     }
