@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-10-06T16:53:27.340Z",
+  "updatedAt": "2026-10-07T17:30:13.986Z",
   "sources": {
     "espn": true
   },
@@ -5957,6 +5957,19 @@
       "awayPoints": 0
     },
     {
+      "id": "401929178",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "475",
+      "venue": "Moby Arena",
+      "homeTeam": "Colorado State Rams",
+      "awayTeam": "CSU Pueblo Thunderwolves",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
       "id": "401928364",
       "week": "",
       "startDate": "2027-01-02T05:00Z",
@@ -6109,19 +6122,6 @@
       "venue": "Burr Gymnasium",
       "homeTeam": "Howard Bison",
       "awayTeam": "South Carolina State Bulldogs",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401925845",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "2021",
-      "venue": "Hill Field House",
-      "homeTeam": "Morgan State Bears",
-      "awayTeam": "Maryland Eastern Shore Hawks",
       "homePoints": 0,
       "awayPoints": 0
     }
