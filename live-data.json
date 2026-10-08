@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-10-07T17:30:13.986Z",
+  "updatedAt": "2026-10-08T17:31:46.366Z",
   "sources": {
     "espn": true
   },
@@ -5957,6 +5957,19 @@
       "awayPoints": 0
     },
     {
+      "id": "401929408",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "5432",
+      "venue": "Sanford Coyote Sports Center",
+      "homeTeam": "South Dakota Coyotes",
+      "awayTeam": "Ozark Christian Ambassadors",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
       "id": "401929178",
       "week": "",
       "startDate": "2027-01-02T05:00Z",
@@ -6109,19 +6122,6 @@
       "venue": "William J. Nicks Building",
       "homeTeam": "Prairie View A&M Panthers",
       "awayTeam": "Grambling Tigers",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401925929",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "1978",
-      "venue": "Burr Gymnasium",
-      "homeTeam": "Howard Bison",
-      "awayTeam": "South Carolina State Bulldogs",
       "homePoints": 0,
       "awayPoints": 0
     }
