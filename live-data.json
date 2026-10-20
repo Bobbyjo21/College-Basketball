@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-10-19T17:05:35.482Z",
+  "updatedAt": "2026-10-20T15:17:16.688Z",
   "sources": {
     "espn": true
   },
@@ -5957,19 +5957,6 @@
       "awayPoints": 0
     },
     {
-      "id": "401929408",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "5432",
-      "venue": "Sanford Coyote Sports Center",
-      "homeTeam": "South Dakota Coyotes",
-      "awayTeam": "Ozark Christian Ambassadors",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
       "id": "401929178",
       "week": "",
       "startDate": "2027-01-02T05:00Z",
@@ -6087,19 +6074,6 @@
       "awayPoints": 0
     },
     {
-      "id": "401927217",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "2051",
-      "venue": "Siegel Center",
-      "homeTeam": "VCU Rams",
-      "awayTeam": "Duquesne Dukes",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
       "id": "401927216",
       "week": "",
       "startDate": "2027-01-02T05:00Z",
@@ -6122,6 +6096,32 @@
       "venue": "William J. Nicks Building",
       "homeTeam": "Prairie View A&M Panthers",
       "awayTeam": "Grambling Tigers",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401925929",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1978",
+      "venue": "Burr Gymnasium",
+      "homeTeam": "Howard Bison",
+      "awayTeam": "South Carolina State Bulldogs",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401925845",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2021",
+      "venue": "Hill Field House",
+      "homeTeam": "Morgan State Bears",
+      "awayTeam": "Maryland Eastern Shore Hawks",
       "homePoints": 0,
       "awayPoints": 0
     }
