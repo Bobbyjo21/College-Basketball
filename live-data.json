@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-10-20T15:17:16.688Z",
+  "updatedAt": "2026-10-21T15:29:52.646Z",
   "sources": {
     "espn": true
   },
@@ -5840,19 +5840,6 @@
       "awayPoints": 0
     },
     {
-      "id": "401922527",
-      "week": "",
-      "startDate": "2027-01-01T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "2098",
-      "venue": "Curb Event Center Arena",
-      "homeTeam": "Belmont Bruins",
-      "awayTeam": "UIC Flames",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
       "id": "401922526",
       "week": "",
       "startDate": "2027-01-01T05:00Z",
@@ -5944,6 +5931,19 @@
       "awayPoints": 0
     },
     {
+      "id": "401922527",
+      "week": "",
+      "startDate": "2027-01-01T22:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2098",
+      "venue": "Curb Event Center Arena",
+      "homeTeam": "Belmont Bruins",
+      "awayTeam": "UIC Flames",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
       "id": "401924768",
       "week": "",
       "startDate": "2027-01-02T00:00Z",
@@ -5953,19 +5953,6 @@
       "venue": "Alumni Gymnasium (Rider)",
       "homeTeam": "Rider Broncs",
       "awayTeam": "Fairfield Stags",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401929178",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "475",
-      "venue": "Moby Arena",
-      "homeTeam": "Colorado State Rams",
-      "awayTeam": "CSU Pueblo Thunderwolves",
       "homePoints": 0,
       "awayPoints": 0
     },
@@ -6009,19 +5996,6 @@
       "awayPoints": 0
     },
     {
-      "id": "401927222",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "1947",
-      "venue": "Chaifetz Arena",
-      "homeTeam": "Saint Louis Billikens",
-      "awayTeam": "St. Bonaventure Bonnies",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
       "id": "401927221",
       "week": "",
       "startDate": "2027-01-02T05:00Z",
@@ -6031,19 +6005,6 @@
       "venue": "Charles E. Smith Center",
       "homeTeam": "George Washington Revolutionaries",
       "awayTeam": "Saint Joseph's Hawks",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401927220",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "4486",
-      "venue": "Robins Center",
-      "homeTeam": "Richmond Spiders",
-      "awayTeam": "Loyola Chicago Ramblers",
       "homePoints": 0,
       "awayPoints": 0
     },
@@ -6122,6 +6083,45 @@
       "venue": "Hill Field House",
       "homeTeam": "Morgan State Bears",
       "awayTeam": "Maryland Eastern Shore Hawks",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401925719",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2205",
+      "venue": "Al Lawson Center",
+      "homeTeam": "Florida A&M Rattlers",
+      "awayTeam": "Bethune-Cookman Wildcats",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401925054",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1939",
+      "venue": "Prather Coliseum",
+      "homeTeam": "Northwestern State Demons",
+      "awayTeam": "LSU New Orleans Privateers",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401922530",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2159",
+      "venue": "Athletics-Recreation Center",
+      "homeTeam": "Valparaiso Beacons",
+      "awayTeam": "Southern Illinois Salukis",
       "homePoints": 0,
       "awayPoints": 0
     }
