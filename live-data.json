@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-10-23T15:22:28.553Z",
+  "updatedAt": "2026-10-24T14:05:11.180Z",
   "sources": {
     "espn": true
   },
@@ -6035,19 +6035,6 @@
       "awayPoints": 0
     },
     {
-      "id": "401927216",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "194",
-      "venue": "John M. Belk Arena",
-      "homeTeam": "Davidson Wildcats",
-      "awayTeam": "Dayton Flyers",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
       "id": "401926122",
       "week": "",
       "startDate": "2027-01-02T05:00Z",
@@ -6122,6 +6109,19 @@
       "venue": "Athletics-Recreation Center",
       "homeTeam": "Valparaiso Beacons",
       "awayTeam": "Southern Illinois Salukis",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401922529",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1932",
+      "venue": "CEFCU Arena",
+      "homeTeam": "Illinois State Redbirds",
+      "awayTeam": "Indiana State Sycamores",
       "homePoints": 0,
       "awayPoints": 0
     }
