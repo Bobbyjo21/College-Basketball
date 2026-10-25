@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-10-24T14:05:11.180Z",
+  "updatedAt": "2026-10-25T14:29:58.362Z",
   "sources": {
     "espn": true
   },
@@ -6009,32 +6009,6 @@
       "awayPoints": 0
     },
     {
-      "id": "401927219",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "2179",
-      "venue": "Thomas M. Ryan Center",
-      "homeTeam": "Rhode Island Rams",
-      "awayTeam": "George Mason Patriots",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401927218",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "10887",
-      "venue": "John Glaser Arena",
-      "homeTeam": "La Salle Explorers",
-      "awayTeam": "Fordham Rams",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
       "id": "401926122",
       "week": "",
       "startDate": "2027-01-02T05:00Z",
@@ -6122,6 +6096,32 @@
       "venue": "CEFCU Arena",
       "homeTeam": "Illinois State Redbirds",
       "awayTeam": "Indiana State Sycamores",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401922528",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1948",
+      "venue": "McLeod Center",
+      "homeTeam": "Northern Iowa Panthers",
+      "awayTeam": "Evansville Purple Aces",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401921272",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2093",
+      "venue": "Reitz Arena",
+      "homeTeam": "Loyola Maryland Greyhounds",
+      "awayTeam": "Army Black Knights",
       "homePoints": 0,
       "awayPoints": 0
     }
