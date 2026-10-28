@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-10-27T15:57:58.984Z",
+  "updatedAt": "2026-10-28T16:46:18.899Z",
   "sources": {
     "espn": true
   },
@@ -5801,32 +5801,6 @@
   },
   "games": [
     {
-      "id": "401924034",
-      "week": "",
-      "startDate": "2027-01-01T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "2070",
-      "venue": "G.B. Hodge Center",
-      "homeTeam": "South Carolina Upstate Spartans",
-      "awayTeam": "UNC Asheville Bulldogs",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401924031",
-      "week": "",
-      "startDate": "2027-01-01T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "7511",
-      "venue": "Joan Perry Brock Center",
-      "homeTeam": "Longwood Lancers",
-      "awayTeam": "Charleston Southern Buccaneers",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
       "id": "401922526",
       "week": "",
       "startDate": "2027-01-01T05:00Z",
@@ -5875,6 +5849,19 @@
       "venue": "Draddy Gymnasium",
       "homeTeam": "Manhattan Jaspers",
       "awayTeam": "Merrimack Warriors",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401924034",
+      "week": "",
+      "startDate": "2027-01-01T19:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2070",
+      "venue": "G.B. Hodge Center",
+      "homeTeam": "South Carolina Upstate Spartans",
+      "awayTeam": "UNC Asheville Bulldogs",
       "homePoints": 0,
       "awayPoints": 0
     },
@@ -5931,6 +5918,19 @@
       "awayPoints": 0
     },
     {
+      "id": "401924031",
+      "week": "",
+      "startDate": "2027-01-01T22:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "7511",
+      "venue": "Joan Perry Brock Center",
+      "homeTeam": "Longwood Lancers",
+      "awayTeam": "Charleston Southern Buccaneers",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
       "id": "401922527",
       "week": "",
       "startDate": "2027-01-01T22:00Z",
@@ -5966,32 +5966,6 @@
       "venue": "H&PE Arena",
       "homeTeam": "Texas Southern Tigers",
       "awayTeam": "Southern Jaguars",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401927638",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "2011",
-      "venue": "Liacouras Center",
-      "homeTeam": "Temple Owls",
-      "awayTeam": "UTSA Roadrunners",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401927637",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "2155",
-      "venue": "Bartow Arena",
-      "homeTeam": "UAB Blazers",
-      "awayTeam": "East Carolina Pirates",
       "homePoints": 0,
       "awayPoints": 0
     },
@@ -6061,58 +6035,6 @@
       "awayPoints": 0
     },
     {
-      "id": "401922530",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "2159",
-      "venue": "Athletics-Recreation Center",
-      "homeTeam": "Valparaiso Beacons",
-      "awayTeam": "Southern Illinois Salukis",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401922529",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "1932",
-      "venue": "CEFCU Arena",
-      "homeTeam": "Illinois State Redbirds",
-      "awayTeam": "Indiana State Sycamores",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401922528",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "1948",
-      "venue": "McLeod Center",
-      "homeTeam": "Northern Iowa Panthers",
-      "awayTeam": "Evansville Purple Aces",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401920988",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "7339",
-      "venue": "The Field House",
-      "homeTeam": "East Texas A&M Lions",
-      "awayTeam": "Nicholls Colonels",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
       "id": "401920824",
       "week": "",
       "startDate": "2027-01-02T05:00Z",
@@ -6122,6 +6044,84 @@
       "venue": "William R. Johnson Coliseum",
       "homeTeam": "Stephen F. Austin Lumberjacks",
       "awayTeam": "SE Louisiana Lions",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401917598",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2136",
+      "venue": "Chiles Center",
+      "homeTeam": "Portland Pilots",
+      "awayTeam": "Pepperdine Waves",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401917597",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "553",
+      "venue": "Alex G. Spanos Center",
+      "homeTeam": "Pacific Tigers",
+      "awayTeam": "Santa Clara Broncos",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401911422",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2192",
+      "venue": "Provident Credit Union Event Center",
+      "homeTeam": "San José State Spartans",
+      "awayTeam": "Hawai'i Rainbow Warriors",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401905611",
+      "week": "",
+      "startDate": "2027-01-02T05:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1937",
+      "venue": "Pan American Center",
+      "homeTeam": "New Mexico State Aggies",
+      "awayTeam": "Missouri State Bears",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401922774",
+      "week": "",
+      "startDate": "2027-01-02T17:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "201",
+      "venue": "Fifth Third Arena",
+      "homeTeam": "Cincinnati Bearcats",
+      "awayTeam": "Texas Tech Red Raiders",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401902306",
+      "week": "",
+      "startDate": "2027-01-02T17:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "1991",
+      "venue": "Lloyd Noble Center",
+      "homeTeam": "Oklahoma Sooners",
+      "awayTeam": "Kentucky Wildcats",
       "homePoints": 0,
       "awayPoints": 0
     }
