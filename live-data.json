@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-10-29T17:01:38.241Z",
+  "updatedAt": "2026-10-30T16:47:03.219Z",
   "sources": {
     "espn": true
   },
@@ -5905,6 +5905,19 @@
       "awayPoints": 0
     },
     {
+      "id": "401929294",
+      "week": "",
+      "startDate": "2027-01-01T21:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "2128",
+      "venue": "Dee Glen Smith Spectrum",
+      "homeTeam": "Utah State Aggies",
+      "awayTeam": "Westminster (UT) Griffins",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
       "id": "401924033",
       "week": "",
       "startDate": "2027-01-01T21:00Z",
@@ -6109,19 +6122,6 @@
       "venue": "Fifth Third Arena",
       "homeTeam": "Cincinnati Bearcats",
       "awayTeam": "Texas Tech Red Raiders",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401902306",
-      "week": "",
-      "startDate": "2027-01-02T17:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "1991",
-      "venue": "Lloyd Noble Center",
-      "homeTeam": "Oklahoma Sooners",
-      "awayTeam": "Kentucky Wildcats",
       "homePoints": 0,
       "awayPoints": 0
     }
