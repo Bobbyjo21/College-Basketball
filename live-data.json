@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-11-01T16:53:08.782Z",
+  "updatedAt": "2026-11-02T20:28:08.471Z",
   "sources": {
     "espn": true
   },
@@ -6035,32 +6035,6 @@
       "awayPoints": 0
     },
     {
-      "id": "401925054",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "1939",
-      "venue": "Prather Coliseum",
-      "homeTeam": "Northwestern State Demons",
-      "awayTeam": "LSU New Orleans Privateers",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401920824",
-      "week": "",
-      "startDate": "2027-01-02T05:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "2079",
-      "venue": "William R. Johnson Coliseum",
-      "homeTeam": "Stephen F. Austin Lumberjacks",
-      "awayTeam": "SE Louisiana Lions",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
       "id": "401917598",
       "week": "",
       "startDate": "2027-01-02T05:00Z",
@@ -6122,6 +6096,32 @@
       "venue": "Lloyd Noble Center",
       "homeTeam": "Oklahoma Sooners",
       "awayTeam": "Kentucky Wildcats",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401922772",
+      "week": "",
+      "startDate": "2027-01-02T17:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "7509",
+      "venue": "Foster Pavilion",
+      "homeTeam": "Baylor Bears",
+      "awayTeam": "Kansas State Wildcats",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401921898",
+      "week": "",
+      "startDate": "2027-01-02T17:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "399",
+      "venue": "Mackey Arena",
+      "homeTeam": "Purdue Boilermakers",
+      "awayTeam": "Rutgers Scarlet Knights",
       "homePoints": 0,
       "awayPoints": 0
     }
