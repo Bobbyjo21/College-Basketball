@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-11-07T16:34:57.211Z",
+  "updatedAt": "2026-11-08T16:45:42.923Z",
   "sources": {
     "espn": true
   },
@@ -2294,6 +2294,22 @@
         "oppAdjusted": 0
       }
     },
+    "Lindenwood Lions": {
+      "id": "2815",
+      "name": "Lindenwood Lions",
+      "aliases": [
+        "LIN"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
     "Lipscomb Bisons": {
       "id": "288",
       "name": "Lipscomb Bisons",
@@ -3814,6 +3830,22 @@
         "oppAdjusted": 0
       }
     },
+    "Queens University Royals": {
+      "id": "2511",
+      "name": "Queens University Royals",
+      "aliases": [
+        "QUC"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
     "Quinnipiac Bobcats": {
       "id": "2514",
       "name": "Quinnipiac Bobcats",
@@ -4379,6 +4411,22 @@
       "name": "Southern Illinois Salukis",
       "aliases": [
         "SIU"
+      ],
+      "conference": "Division I",
+      "gamesPlayed": 0,
+      "dataWeight": 0,
+      "power": 0,
+      "hca": 3.2,
+      "raw": {},
+      "model": {
+        "oppAdjusted": 0
+      }
+    },
+    "Southern Indiana Screaming Eagles": {
+      "id": "88",
+      "name": "Southern Indiana Screaming Eagles",
+      "aliases": [
+        "USI"
       ],
       "conference": "Division I",
       "gamesPlayed": 0,
