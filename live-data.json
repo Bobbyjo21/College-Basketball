@@ -1,6 +1,6 @@
 {
   "season": 2027,
-  "updatedAt": "2026-11-15T17:20:58.900Z",
+  "updatedAt": "2026-11-16T20:37:57.829Z",
   "sources": {
     "espn": true
   },
@@ -6128,22 +6128,9 @@
       "completed": false,
       "neutralSite": false,
       "venueId": "201",
-      "venue": "Fifth Third Arena",
+      "venue": "Fifth Third Arena (OH)",
       "homeTeam": "Cincinnati Bearcats",
       "awayTeam": "Texas Tech Red Raiders",
-      "homePoints": 0,
-      "awayPoints": 0
-    },
-    {
-      "id": "401902306",
-      "week": "",
-      "startDate": "2027-01-02T17:00Z",
-      "completed": false,
-      "neutralSite": false,
-      "venueId": "1991",
-      "venue": "Lloyd Noble Center",
-      "homeTeam": "Oklahoma Sooners",
-      "awayTeam": "Kentucky Wildcats",
       "homePoints": 0,
       "awayPoints": 0
     },
@@ -6170,6 +6157,19 @@
       "venue": "Mackey Arena",
       "homeTeam": "Purdue Boilermakers",
       "awayTeam": "Rutgers Scarlet Knights",
+      "homePoints": 0,
+      "awayPoints": 0
+    },
+    {
+      "id": "401921893",
+      "week": "",
+      "startDate": "2027-01-02T17:00Z",
+      "completed": false,
+      "neutralSite": false,
+      "venueId": "363",
+      "venue": "Carver-Hawkeye Arena",
+      "homeTeam": "Iowa Hawkeyes",
+      "awayTeam": "Ohio State Buckeyes",
       "homePoints": 0,
       "awayPoints": 0
     }
